@@ -1,0 +1,456 @@
+{
+    "Echinochloa crus-galli": [
+        {
+            "name": "Glyphosate 41% SL",
+            "description": "Non-selective herbicide effective against various weeds including barnyard grass",
+            "active_ingredient": "Glyphosate 41%",
+            "image_url": "https://m.media-amazon.com/images/I/71J7FN7a3yL._AC_UF1000,1000_QL80_.jpg",
+            "purchase_links": {
+                "bighaat": "https://www.bighaat.com/products/aimco-glyphotox?pf=search",
+                "agriplex": "https://agriplexindia.com/products/sumitomo-glycel?_pos=2&_sid=2ace3f64f&_ss=r"
+            }
+        },
+        {
+            "name": "Bispyribac Sodium 10% SC",
+            "description": "Selective herbicide specifically designed for rice fields",
+            "active_ingredient": "Bispyribac Sodium 10%",
+            "image_url": "https://5.imimg.com/data5/SELLER/Default/2022/11/WH/YK/JZ/3580587/nominee-gold-herbicide.jpg",
+            "purchase_links": {
+                "bighaat": "https://www.bighaat.com/products/nami-herbicide?pf=search",
+                "agribegri": "https://agribegri.com/products/buy-bayer-adora-bispyribac-sodium-10-sc-herbicide-online.php"
+            }
+        }
+    ],
+    "Amaranthus": [
+        {
+            "name": "Atrazine 50% WP",
+            "description": "Pre-emergence herbicide effective against broadleaf weeds",
+            "active_ingredient": "Atrazine 50%",
+            "image_url": "https://5.imimg.com/data5/SELLER/Default/2021/12/QK/ON/WA/3580587/atrazine-50-wp-herbicide.jpg",
+            "purchase_links": {
+                "agribegri": "https://agribegri.com/products/buy-ebs-super-aatank-atrazine-50-wp-herbicide-online.php",
+                "agriplex": "https://agriplexindia.com/products/ju-atrazine-herbicide?_pos=1&_sid=16cf69338&_ss=r"
+            }
+        }
+    ],
+    "Carpetweed": {
+        "products": [
+            {
+                "name": "Pendimethalin 30% EC (Multiplex Fastout)",
+                "description": "Pre-emergence control herbicide",
+                "active_ingredient": "Pendimethalin 30% EC",
+                "usage": "Apply before weed emergence",
+                "image_url": "https://5.imimg.com/data5/SELLER/Default/2021/12/UY/CX/GU/3580587/pendimethalin-30-ec-herbicide.jpg",
+                "purchase_links": {
+                    "agribegri": "https://agribegri.com/products/strom-1-liter--pendimethalin-online--buy-herbicide-online.php",
+                    "bighaat": "https://www.bighaat.com/products/agriventure-pendi-silver?pf=search"
+                }
+            },
+            {
+                "name": "Crystal Topper-77",
+                "description": "Post-emergence, non-selective herbicide",
+                "active_ingredient": "Glyphosate 71% SG",
+                "usage": "Apply when weeds are actively growing",
+                "image_url": "https://5.imimg.com/data5/SELLER/Default/2022/3/UW/NG/VR/3580587/crystal-topper-77-herbicide.jpg",
+                "purchase_links": {
+                    "agriplex": "https://agriplexindia.com/search?q=Crystal+Topper-77",
+                    "bighaat": "https://www.bighaat.com/products/topper-77?pf=search"
+                }
+            }
+        ]
+    },
+    "Circimarvense": {
+        "products": [
+            {
+                "name": "2,4-D Sodium Salt 80% WP",
+                "description": "Selective herbicide for broadleaf weeds",
+                "active_ingredient": "2,4-D Sodium Salt 80% WP",
+                "usage": "Apply during active growth stage",
+                "image_url": "https://5.imimg.com/data5/SELLER/Default/2022/3/QN/FD/OJ/3580587/clopyralid-herbicide.jpg",
+                "purchase_links": {}
+            }
+        ]
+    },
+    "Eclipta": {
+        "products": [
+            {
+                "name": "Godrej Hitweed",
+                "description": "Selective herbicide for cotton, effective against Eclipta",
+                "active_ingredient": "Pyrithiobac Sodium 6% + Quizalofop Ethyl 4% MEC",
+                "usage": "Apply as post-emergence spray",
+                "image_url": "https://5.imimg.com/data5/SELLER/Default/2022/4/VN/XC/ZQ/3580587/pyrithiobac-sodium-herbicide.jpg",
+                "purchase_links": {
+                    "agriplex": "https://agriplexindia.com/products/godrej-hitweed-herbicide?_pos=1&_sid=84a7e9841&_ss=r",
+                    "bighaat": "https://www.bighaat.com/products/hitweed-maxx-herbicide?pf=search",
+                    "agribegri": "https://agribegri.com/products/buy-godrej-hitweed-maxx-pyrithiobac-sodium-6--quizalofop-ethyl-4-mec.php"
+                }
+            }
+        ]
+    },
+    "Morningglory": {
+        "products": [
+            {
+                "name": "Trifluralin 48% EC",
+                "description": "Pre-emergence control herbicide",
+                "active_ingredient": "Trifluralin 48% EC",
+                "usage": "Apply before weed emergence",
+                "image_url": "https://5.imimg.com/data5/SELLER/Default/2022/1/KL/UQ/XM/3580587/trifluralin-herbicide.jpg",
+                "purchase_links": {}
+            }
+        ]
+    },
+    "Palmer Amaranth": {
+        "products": [
+            {
+                "name": "BASF Basta",
+                "description": "Non-selective post-emergence herbicide",
+                "active_ingredient": "Glufosinate Ammonium 13.5% SL",
+                "usage": "Apply when weeds are young and actively growing",
+                "image_url": "https://5.imimg.com/data5/SELLER/Default/2022/2/QW/XP/YT/3580587/basta-herbicide.jpg",
+                "purchase_links": {
+                    "agriplex": "https://agriplexindia.com/products/basf-basta-herbicide-1-lt?_pos=1&_sid=bf232249d&_ss=r",
+                    "bighaat": "https://www.bighaat.com/products/copy-of-sefina-insecticide?pf=search"
+                }
+            }
+        ]
+    },
+    "Prickly Sida": {
+        "products": [
+            {
+                "name": "Dicamba 50% SG",
+                "description": "Effective on broadleaf weeds",
+                "active_ingredient": "Dicamba 50% SG",
+                "usage": "Apply as post-emergence spray",
+                "image_url": "https://5.imimg.com/data5/SELLER/Default/2022/5/RK/YP/ZM/3580587/dicamba-herbicide.jpg",
+                "purchase_links": {}
+            }
+        ]
+    },
+    "Purslane": {
+        "products": [
+            {
+                "name": "Pendimethalin 30% EC",
+                "description": "Pre-emergence control herbicide",
+                "active_ingredient": "Pendimethalin 30% EC",
+                "usage": "Apply before weed emergence",
+                "image_url": "https://5.imimg.com/data5/SELLER/Default/2021/12/UY/CX/GU/3580587/pendimethalin-30-ec-herbicide.jpg",
+                "purchase_links": {
+                    "agribegri": "https://agribegri.com/products/strom-1-liter--pendimethalin-online--buy-herbicide-online.php",
+                    "bighaat": "https://www.bighaat.com/products/agriventure-pendi-silver?pf=search"
+                }
+            }
+        ]
+    },
+    "Ragweed": {
+        "products": [
+            {
+                "name": "2,4-D Amine Salt 58% SL",
+                "description": "Selective herbicide for broadleaf weeds",
+                "active_ingredient": "2,4-D Amine Salt 58% SL",
+                "usage": "Apply during active growth stage",
+                "image_url": "https://5.imimg.com/data5/SELLER/Default/2022/3/QN/FD/OJ/3580587/clopyralid-herbicide.jpg",
+                "purchase_links": {}
+            }
+        ]
+    },
+    "Sicklepod": {
+        "products": [
+            {
+                "name": "Glufosinate Ammonium 13.5% SL",
+                "description": "Post-emergence control herbicide",
+                "active_ingredient": "Glufosinate Ammonium",
+                "usage": "Apply when weeds are actively growing",
+                "image_url": "https://5.imimg.com/data5/SELLER/Default/2022/4/JK/YT/ZP/3580587/glufosinate-herbicide.jpg",
+                "purchase_links": {
+                    "bighaat": "https://www.bighaat.com/products/sweep-powder-herbicide?pf=search",
+                    "agriplex": "https://agriplexindia.com/products/upl-sweep-power-herbicide-1lt?_pos=2&_sid=68eeceff4&_ss=r",
+                    "agribegri": "https://agribegri.com/products/buy-arsa-glufosinate-ammonium-135--sl-onine.php"
+                }
+            }
+        ]
+    },
+    "Spotted Spurge": {
+        "products": [
+            {
+                "name": "Oxyfluorfen 23.5% EC",
+                "description": "Pre-emergence herbicide",
+                "active_ingredient": "Oxyfluorfen 23.5% EC",
+                "usage": "Apply before weed emergence",
+                "image_url": "https://5.imimg.com/data5/SELLER/Default/2022/6/NM/QP/XK/3580587/isoxaben-herbicide.jpg",
+                "purchase_links": {}
+            }
+        ]
+    },
+    "Spurred Anoda": {
+        "products": [
+            {
+                "name": "Imazethapyr 10% SL",
+                "description": "Pre-emergence and early post-emergence herbicide",
+                "active_ingredient": "Imazethapyr 10% SL",
+                "usage": "Apply before or shortly after weed emergence",
+                "image_url": "/static/images/products/trifluralin.jpg",
+                "purchase_links": {}
+            }
+        ]
+    },
+    "Swinecress": {
+        "products": [
+            {
+                "name": "Clopyralid + Glyphosate Mixture",
+                "description": "Combined action herbicide",
+                "active_ingredient": "Clopyralid and Glyphosate",
+                "usage": "Apply during active growth",
+                "image_url": "/static/images/products/clopyralid_glyphosate.jpg",
+                "purchase_links": {
+                    "agriplex": "https://agriplexindia.com/products/multiplex-remove?_pos=2&_sid=e0b203842&_ss=r"
+                }
+            }
+        ]
+    },
+    "Waterhemp": {
+        "products": [
+            {
+                "name": "Glufosinate Ammonium 13.5% SL",
+                "description": "Post-emergence herbicide",
+                "active_ingredient": "Glufosinate Ammonium",
+                "usage": "Apply when weeds are young",
+                "image_url": "/static/images/products/glufosinate.jpg",
+                "purchase_links": {
+                    "bighaat": "https://www.bighaat.com/products/sweep-powder-herbicide?pf=search",
+                    "agriplex": "https://agriplexindia.com/products/upl-sweep-power-herbicide-1lt?_pos=2&_sid=68eeceff4&_ss=r",
+                    "agribegri": "https://agribegri.com/products/buy-arsa-glufosinate-ammonium-135--sl-onine.php"
+                }
+            }
+        ]
+    },
+    "Crabgrass": {
+        "products": [
+            {
+                "name": "Pendimethalin 30% EC",
+                "description": "Pre-emergence grass control",
+                "active_ingredient": "Pendimethalin 30% EC",
+                "usage": "Apply before weed emergence",
+                "image_url": "/static/images/products/pendimethalin.jpg",
+                "purchase_links": {
+                    "agribegri": "https://agribegri.com/products/strom-1-liter--pendimethalin-online--buy-herbicide-online.php",
+                    "bighaat": "https://www.bighaat.com/products/agriventure-pendi-silver?pf=search"
+                }
+            }
+        ]
+    },
+    "Goosegrass": {
+        "products": [
+            {
+                "name": "Quizalofop Ethyl 5% EC",
+                "description": "Post-emergence grass control",
+                "active_ingredient": "Quizalofop Ethyl 5% EC",
+                "usage": "Apply when grass weeds are young",
+                "image_url": "/static/images/products/pendimethalin.jpg",
+                "purchase_links": {
+                    "bighaat": "https://www.bighaat.com/products/ryusei-herbicide?pf=search",
+                    "agribegri": "https://agribegri.com/products/buy-hakama-quizalofop-ethyl-5-ec-herbicide-for-effective-weed-control-online.php"
+                }
+            }
+        ]
+    },
+    "Brachypodium sylvaticum": {
+        "products": [
+            {
+                "name": "Glyphosate 71% SG",
+                "description": "Post-emergence systemic control",
+                "active_ingredient": "Glyphosate 71% SG",
+                "usage": "Apply when actively growing",
+                "image_url": "/static/images/products/glyphosate.jpg",
+                "purchase_links": {
+                    "agriplex": "https://agriplexindia.com/products/sumitomo-excel-mera-71-herbicide?_pos=1&_sid=a16d28c70&_ss=r",
+                    "agribegri": "https://agribegri.com/products/buy-glyphosate-71-sg-online.php"
+                }
+            }
+        ]
+    },
+    "Nutsedge": {
+        "products": [
+            {
+                "name": "Halosulfuron-methyl 75% WG",
+                "description": "Selective herbicide for nutsedge",
+                "active_ingredient": "Halosulfuron-methyl 75% WG",
+                "usage": "Apply when nutsedge is actively growing",
+                "image_url": "/static/images/products/halosulfuron.jpg",
+                "purchase_links": {
+                    "bighaat": "https://www.bighaat.com/products/sempra-herbicide?pf=search",
+                    "agribegri": "https://agribegri.com/products/best-agrolife-headshot-halosulfuron-methyl-75-wg-herbicide-for-sugarcane-maize-online-agribegri.php"
+                }
+            }
+        ]
+    },
+    "Mollugo_verticillata": {
+        "products": [
+            {
+                "name": "Stomp Xtra",
+                "description": "Pre-emergence herbicide with extended control",
+                "active_ingredient": "Pendimethalin 38.7% CS",
+                "usage": "Apply before weed emergence at 3.0-3.5 L/ha",
+                "image_url": "/static/images/products/stomp_xtra.jpg",
+                "purchase_links": {
+                    "agriplex": "https://agriplexindia.com/products/basf-stomp-xtra?_pos=1&_sid=e1610b232&_ss=r",
+                    "bighaat": "https://www.bighaat.com/products/stomp-xtra-herbicide?pf=search"
+                }
+            },
+            {
+                "name": "Roundup PowerMAX",
+                "description": "Post-emergence systemic herbicide",
+                "active_ingredient": "Glyphosate 48.7% SL",
+                "usage": "Apply when weeds are actively growing at 2-4 L/ha",
+                "image_url": "/static/images/products/roundup_powermax.jpg",
+                "purchase_links": {
+                    "agriplex": "https://agriplexindia.com/products/multiplex-nagrodar?_pos=2&_sid=e0844b04d&_ss=r"
+                }
+            },
+            {
+                "name": "Spartan Elite",
+                "description": "Dual-action pre-emergence herbicide",
+                "active_ingredient": "Sulfentrazone 7.55% + S-metolachlor 68.25%",
+                "usage": "Apply before weed emergence at 1.0-1.5 L/ha",
+                "image_url": "/static/images/products/spartan_elite.jpg",
+                "purchase_links": {
+                    "bighaat": "https://www.bighaat.com/products/paranex-herbicide?pf=search"
+                }
+            }
+        ]
+    },
+    "Lianeblue": {
+        "products": [
+            {
+                "name": "Paraquat dichloride 24% SL",
+                "description": "Fast-acting contact herbicide",
+                "active_ingredient": "Paraquat dichloride 24% SL",
+                "usage": "Apply as directed spray at 2.0-3.0 L/ha",
+                "image_url": "/static/images/products/gramoxone.jpg",
+                "purchase_links": {
+                    "agriplex": "https://agriplexindia.com/products/tropical-taquite-herbicide?_pos=1&_sid=e070edb28&_ss=r",
+                    "bighaat": "https://www.bighaat.com/products/exylon-burst-24-herbicide?pf=search",
+                    "agribegri": "https://agribegri.com/products/buy-bacf-mox-paraquate-dichloride-24-sl.php"
+                }
+            },
+            {
+                "name": "Verdict Super",
+                "description": "Selective post-emergence herbicide",
+                "active_ingredient": "Haloxyfop-R-methyl ester 10.5% EC",
+                "usage": "Apply at 2-4 leaf stage at 400-500 ml/ha",
+                "image_url": "/static/images/products/verdict_super.jpg",
+                "purchase_links": {
+                    "agriplex": "https://agriplexindia.com/products/gsp-verdict-metri-herbicides-500-gm?_pos=1&_sid=4392c0a40&_ss=r",
+                    "bighaat": "https://www.bighaat.com/products/dost-super?pf=productsSearchPage"
+                }
+            }
+        ]
+    },
+    "Lianemargoze": {
+        "products": [
+            {
+                "name": "Haloxyfop-P-methyl 10.8% EC",
+                "description": "Selective post-emergence herbicide",
+                "active_ingredient": "Haloxyfop-P-methyl 10.8% EC",
+                "usage": "Apply when weeds are at 2-4 leaf stage at 0.5-1.0 L/ha",
+                "image_url": "/static/images/products/gallant_super.jpg",
+                "purchase_links": {
+                    "bighaat": "https://www.bighaat.com/products/agriventure-quizalo-super-herbicide?pf=search"
+                }
+            },
+            {
+                "name": "Clincher Gold",
+                "description": "Post-emergence grass herbicide",
+                "active_ingredient": "Cyhalofop-butyl 10% EC",
+                "usage": "Apply at 1.0-1.5 L/ha when weeds are young",
+                "image_url": "/static/images/products/clincher_gold.jpg",
+                "purchase_links": {}
+            }
+        ]
+    },
+    "Lianepocpoc": {
+        "products": [
+            {
+                "name": "Clethodim 12.5% EC",
+                "description": "Selective post-emergence grass herbicide",
+                "active_ingredient": "Clethodim 12.5% EC",
+                "usage": "Apply at 0.5-1.0 L/ha when weeds are actively growing",
+                "image_url": "/static/images/products/select_max.jpg",
+                "purchase_links": {
+                    "bighaat": "https://www.bighaat.com/products/canora-herbicide?pf=search"
+                }
+            },
+            {
+                "name": "Fusilade Forte",
+                "description": "Systemic post-emergence herbicide",
+                "active_ingredient": "Fluazifop-P-butyl 15% EC",
+                "usage": "Apply at 1.0-1.5 L/ha during active growth",
+                "image_url": "/static/images/products/fusilade_forte.jpg",
+                "purchase_links": {
+                    "bighaat": "https://www.bighaat.com/products/fusiflex-herbicide?pf=search"
+                }
+            }
+        ]
+    },
+    "Osseille": {
+        "products": [
+            {
+                "name": "Metsulfuron Methyl 20% WP",
+                "description": "Selective broadleaf herbicide",
+                "active_ingredient": "Metsulfuron Methyl 20% WP",
+                "usage": "Apply at 20-30 g/ha when weeds are young",
+                "image_url": "/static/images/products/harmony_extra.jpg",
+                "purchase_links": {
+                    "agribegri": "https://agribegri.com/products/buy-hpm-freedom-online--buy-metsulfuron-methyl-20-wp-online.php",
+                    "bighaat": "https://www.bighaat.com/products/silver-crop-special-metsil-combo?pf=search",
+                    "agriplex": "https://agriplexindia.com/products/swal-sandesh?_pos=1&_sid=65db0d291&_ss=r"
+                }
+            },
+            {
+                "name": "Starane Ultra",
+                "description": "Post-emergence broadleaf herbicide",
+                "active_ingredient": "Fluroxypyr 45.5% EC",
+                "usage": "Apply at 0.3-0.6 L/ha when weeds are actively growing",
+                "image_url": "/static/images/products/starane_ultra.jpg",
+                "purchase_links": {}
+            }
+        ]
+    },
+    "Pourpier": {
+        "products": [
+            {
+                "name": "Callisto",
+                "description": "Pre and post-emergence herbicide",
+                "active_ingredient": "Mesotrione 40% SC",
+                "usage": "Apply at 0.2-0.3 L/ha before or after weed emergence",
+                "image_url": "/static/images/products/callisto.jpg",
+                "purchase_links": {
+                    "bighaat": "https://www.bighaat.com/products/calaris-xtra-herbicide?pf=search",
+                    "agriplex": "https://agriplexindia.com/products/syngenta-calaris-xtra?_pos=1&_sid=740650f6b&_ss=r"
+                }
+            },
+            {
+                "name": "Tenacity",
+                "description": "Selective systemic pre and post-emergence herbicide",
+                "active_ingredient": "Mesotrione 40% SC",
+                "usage": "Apply at 0.15-0.3 L/ha before or after weed emergence",
+                "image_url": "/static/images/products/tenacity.jpg",
+                "purchase_links": {
+                    "agribegri": "https://agribegri.com/products/shop-ju-clear-mesotrione-27--atrazine-227-sc-herbicide-online.php",
+                    "bighaat": "https://www.bighaat.com/products/laudis-herbicide?pf=search"
+                }
+            }
+        ]
+    },
+    "Cirsium_arvense": {
+        "products": [
+            {
+                "name": "2,4-D Sodium Salt 80% WP",
+                "description": "Selective herbicide for Canada thistle",
+                "active_ingredient": "2,4-D Sodium Salt 80% WP",
+                "usage": "Apply during active growth before flowering",
+                "image_url": "/static/images/products/2-4-d.jpg",
+                "purchase_links": {}
+            }
+        ]
+    }
+} 

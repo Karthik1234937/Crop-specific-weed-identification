@@ -1,0 +1,1497 @@
+{
+    "en": {
+        "app": {
+            "title": "Weed Identification System"
+        },
+        "nav": {
+            "home": "Home",
+            "search": "Search",
+            "supplements": "Chemical Control",
+            "contact": "Contact"
+        },
+        "home": {
+            "welcome": "Welcome to Weed Identification System",
+            "subtitle": "Identify and manage weeds in your crops efficiently",
+            "search_description": "Upload an image or use your camera to identify weeds in your field.",
+            "chemical_control_description": "Find recommended chemical treatments and control methods for identified weeds.",
+            "contact_description": "Get in touch with our team for support and inquiries.",
+            "start_search": "Start Search",
+            "view_chemical_control": "View Chemical Control",
+            "why_choose_us": "Why Choose Our System?",
+            "easy_upload": "Easy Image Upload",
+            "easy_upload_description": "Upload images or use your camera for instant weed identification",
+            "multi_language": "Multi-language Support",
+            "multi_language_description": "Get information in English, Telugu, Tamil, and Hindi",
+            "accurate_detection": "Accurate Detection",
+            "accurate_detection_description": "Advanced AI model for precise weed classification",
+            "purchase_links": "Purchase Links",
+            "purchase_links_description": "Direct links to purchase recommended chemical treatments",
+            "supplements_description": "Buy the herbicides here",
+            "view_supplements": "Herbicides"
+        },
+        "search": {
+            "title": "Advanced Weed Classification System",
+            "subtitle": "Upload a clear image of the weed for accurate identification and control recommendations",
+            "choose_image": "Select Image for Analysis",
+            "select_image_label": "Click here to upload a weed image or drag and drop",
+            "identify": "Analyze and Identify Weed",
+            "analyzing": "Advanced AI Analysis in Progress...",
+            "results": "Detailed Analysis Results",
+            "error": "Image Analysis Error",
+            "select_image": "Please select a clear image of the weed",
+            "confidence": "AI Confidence Score",
+            "more_info": "View Comprehensive Information",
+            "preview": "Image Analysis Preview",
+            "no_confident_prediction": "Unable to make a confident identification. Please provide a clearer image of the weed."
+        },
+        "result": {
+            "weed_identification": "Comprehensive Weed Analysis Report",
+            "confidence": "AI Model Confidence Score",
+            "characteristics": "Detailed Morphological Features & Growth Characteristics",
+            "control_methods": "Expert-Recommended Management Strategies",
+            "cultural_methods": "Sustainable Agricultural Control Methods",
+            "mechanical_methods": "Physical & Manual Control Techniques",
+            "chemical_methods": "Chemical Treatment & Application Guidelines",
+            "biological_methods": "Natural & Ecological Control Methods",
+            "view_chemical_control": "View Detailed Chemical Control Guide",
+            "try_another": "Analyze Another Weed Image",
+            "no_confident_prediction": "Insufficient confidence in identification. Please provide a clearer image for accurate analysis.",
+            "characteristic_placeholder": "Additional characteristic information pending"
+        },
+        "chemical_control": {
+            "title": "Chemical Control",
+            "description": "Find recommended chemical treatments and control methods for weed management",
+            "chemical_title": "Chemical Products",
+            "chemical_description": "Browse through our recommended chemical treatments for effective weed control",
+            "control_title": "Control Methods",
+            "control_description": "Learn about various methods to control and prevent weed growth",
+            "buy_now": "Buy Now",
+            "no_info": "No chemical control information available for this weed."
+        },
+        "contact": {
+            "page_title": "Contact Us - Weed Classification System",
+            "title": "Contact Us",
+            "subtitle": "Get in touch with our team",
+            "team_title": "Our Team",
+            "linkedin_profile": "LinkedIn Profile",
+            "message_title": "Send us a Message",
+            "name_label": "Name",
+            "email_label": "Email",
+            "subject_label": "Subject",
+            "message_label": "Message",
+            "send_button": "Send Message",
+            "location_title": "Location",
+            "address_title": "Address",
+            "contact_info_title": "Contact Information",
+            "success_message": "Thank you for your message! We will get back to you soon."
+        },
+        "crops": {
+            "select": "Select Crop",
+            "cotton": "Cotton",
+            "rice": "Rice",
+            "wheat": "Wheat"
+        },
+        "footer": {
+            "copyright": "© 2024 Weed Classification System. All rights reserved."
+        },
+        "error": {
+            "title": "Error",
+            "heading": "An error occurred",
+            "back_to_search": "Back to Search"
+        },
+        "weeds": {
+            "Mollugo_verticillata": {
+                "name": "Mollugo verticillata",
+                "characteristics": [
+                    "5-30 cm height, growing annually",
+                    "Leaves may be attached to the stem or grow upwards, with branching",
+                    "Leaves may be round or oval",
+                    "Small white flowers in clusters",
+                    "Seeds are small and kidney-shaped",
+                    "Mollugo root system",
+                    "Grows well in sandy soil",
+                    "Common in disturbed areas",
+                    "Fast growth",
+                    "Drought-resistant",
+                    "High seed production",
+                    "Seeds may persist for several years",
+                    "Grows well in warm conditions",
+                    "Competes with crops",
+                    "Resistant to some weedkillers"
+                ]
+            },
+            "Cuscuta_campestris": {
+                "name": "Cuscuta campestris",
+                "characteristics": [
+                    "Parasitic annual plant",
+                    "Leaves from yellow to orange-red color",
+                    "No true leaves or stems",
+                    "Small white flowers in clusters",
+                    "High seed production",
+                    "Attached to host plants by haustoria",
+                    "Grows well in warm conditions",
+                    "Fast growth",
+                    "Highly invasive",
+                    "Difficult to control",
+                    "Seeds may persist for several years",
+                    "May kill host plants",
+                    "Spread by seed and stem",
+                    "Resistant to some weedkillers",
+                    "Affects many crops"
+                ]
+            },
+            "Eclipta_prostrata": {
+                "name": "Eclipta prostrata",
+                "characteristics": [
+                    "20-60 cm height, growing annually",
+                    "Leaves may be attached to the stem or grow upwards",
+                    "Leaves opposite, heart-shaped",
+                    "White flowers in clusters",
+                    "Small black seeds",
+                    "Mollugo root system",
+                    "Grows well in warm conditions",
+                    "Common in fields",
+                    "Fast growth",
+                    "High competition",
+                    "High seed production",
+                    "Seeds may persist for several years",
+                    "Grows well in warm conditions",
+                    "Resistant to some weedkillers",
+                    "Resistant to some weedkillers"
+                ]
+            },
+            "Ipomoea_purpurea": {
+                "name": "Morning Glory",
+                "characteristics": [
+                    "Annual vine growing up to 3 meters",
+                    "Stems are twining and hairy",
+                    "Leaves are heart-shaped to lobed",
+                    "Purple to pink trumpet-shaped flowers",
+                    "Produces large, black seeds",
+                    "Extensive root system",
+                    "Thrives in warm conditions",
+                    "Rapid growth rate",
+                    "Highly competitive",
+                    "Climbs and smothers crops",
+                    "Produces abundant seeds",
+                    "Seeds remain viable for years",
+                    "Germinates in warm conditions",
+                    "Drought tolerant",
+                    "Resistant to many herbicides"
+                ]
+            },
+            "Amaranthus_palmeri": {
+                "name": "Palmer Amaranth",
+                "characteristics": [
+                    "Annual herb growing 1-2 meters tall",
+                    "Stems are erect and branched",
+                    "Leaves are alternate, lanceolate",
+                    "Small green flowers in clusters",
+                    "Produces abundant seeds",
+                    "Deep taproot system",
+                    "Thrives in warm conditions",
+                    "Rapid growth rate",
+                    "Highly competitive",
+                    "Drought tolerant",
+                    "Produces thousands of seeds",
+                    "Seeds remain viable for years",
+                    "Germinates in warm conditions",
+                    "Resistant to many herbicides",
+                    "Difficult to control"
+                ]
+            },
+            "Sida_spinosa": {
+                "name": "Prickly Sida",
+                "characteristics": [
+                    "Annual herb growing 30-100 cm tall",
+                    "Stems are erect and branched",
+                    "Leaves are alternate, ovate",
+                    "Small yellow flowers",
+                    "Produces small, brown seeds",
+                    "Deep taproot system",
+                    "Thrives in warm conditions",
+                    "Rapid growth rate",
+                    "Highly competitive",
+                    "Drought tolerant",
+                    "Produces abundant seeds",
+                    "Seeds remain viable for years",
+                    "Germinates in warm conditions",
+                    "Resistant to some herbicides",
+                    "Spiny stems"
+                ]
+            },
+            "Euphorbia_maculata": {
+                "name": "Spotted Spurge",
+                "characteristics": [
+                    "Annual herb growing 10-30 cm tall",
+                    "Stems are prostrate and branched",
+                    "Leaves are opposite, oblong",
+                    "Small green flowers with red spots",
+                    "Produces small, brown seeds",
+                    "Shallow root system",
+                    "Thrives in warm conditions",
+                    "Rapid growth rate",
+                    "Highly competitive",
+                    "Drought tolerant",
+                    "Produces abundant seeds",
+                    "Seeds remain viable for years",
+                    "Germinates in warm conditions",
+                    "Resistant to some herbicides",
+                    "Milky sap"
+                ]
+            },
+            "Anoda_cristata": {
+                "name": "Spurred Anoda",
+                "characteristics": [
+                    "Annual herb growing 30-100 cm tall",
+                    "Stems are erect and branched",
+                    "Leaves are alternate, triangular",
+                    "Purple flowers with spurs",
+                    "Produces small, black seeds",
+                    "Deep taproot system",
+                    "Thrives in warm conditions",
+                    "Rapid growth rate",
+                    "Highly competitive",
+                    "Drought tolerant",
+                    "Produces abundant seeds",
+                    "Seeds remain viable for years",
+                    "Germinates in warm conditions",
+                    "Resistant to some herbicides",
+                    "Spurred flowers"
+                ]
+            },
+            "Coronopus_didymus": {
+                "name": "Swinecress",
+                "characteristics": [
+                    "Annual herb growing 10-40 cm tall",
+                    "Stems are prostrate and branched",
+                    "Leaves are pinnately divided",
+                    "Small white flowers",
+                    "Produces small, round seeds",
+                    "Shallow root system",
+                    "Thrives in cool conditions",
+                    "Rapid growth rate",
+                    "Highly competitive",
+                    "Moisture loving",
+                    "Produces abundant seeds",
+                    "Seeds remain viable for years",
+                    "Germinates in cool conditions",
+                    "Resistant to some herbicides",
+                    "Strong odor"
+                ]
+            },
+            "Amaranthus_tuberculatus": {
+                "name": "Waterhemp",
+                "characteristics": [
+                    "Annual herb growing 1-2 m tall",
+                    "Stems are erect and branched",
+                    "Leaves are alternate, lanceolate",
+                    "Small green flowers in spikes",
+                    "Produces small, black seeds",
+                    "Deep taproot system",
+                    "Thrives in warm conditions",
+                    "Rapid growth rate",
+                    "Highly competitive",
+                    "Drought tolerant",
+                    "Produces abundant seeds",
+                    "Seeds remain viable for years",
+                    "Germinates in warm conditions",
+                    "Resistant to multiple herbicides",
+                    "Male and female flowers on separate plants"
+                ]
+            },
+            "Digitaria_sanguinalis": {
+                "name": "Crabgrass",
+                "characteristics": [
+                    "Annual grass growing 30-60 cm tall",
+                    "Stems are prostrate and rooting at nodes",
+                    "Leaves are flat and hairy",
+                    "Small green flowers in spikes",
+                    "Produces small, brown seeds",
+                    "Fibrous root system",
+                    "Thrives in warm conditions",
+                    "Rapid growth rate",
+                    "Highly competitive",
+                    "Drought tolerant",
+                    "Produces abundant seeds",
+                    "Seeds remain viable for years",
+                    "Germinates in warm conditions",
+                    "Resistant to some herbicides",
+                    "Spreads by stolons"
+                ]
+            },
+            "Eleusine_indica": {
+                "name": "Goosegrass",
+                "characteristics": [
+                    "Annual grass growing 20-60 cm tall",
+                    "Stems are flattened and whitish",
+                    "Leaves are flat and folded",
+                    "Small green flowers in spikes",
+                    "Produces small, brown seeds",
+                    "Fibrous root system",
+                    "Thrives in warm conditions",
+                    "Rapid growth rate",
+                    "Highly competitive",
+                    "Drought tolerant",
+                    "Produces abundant seeds",
+                    "Seeds remain viable for years",
+                    "Germinates in warm conditions",
+                    "Resistant to some herbicides",
+                    "White stem base"
+                ]
+            },
+            "Brachypodium_sylvaticum": {
+                "name": "False Brome",
+                "characteristics": [
+                    "Perennial grass growing 60-120 cm tall",
+                    "Stems are erect and tufted",
+                    "Leaves are flat and hairy",
+                    "Small green flowers in spikes",
+                    "Produces small, brown seeds",
+                    "Fibrous root system",
+                    "Thrives in cool conditions",
+                    "Moderate growth rate",
+                    "Competitive",
+                    "Shade tolerant",
+                    "Produces abundant seeds",
+                    "Seeds remain viable for years",
+                    "Germinates in cool conditions",
+                    "Resistant to some herbicides",
+                    "Forms dense tufts"
+                ]
+            }
+        },
+        "supplements": {
+            "title": "Chemical Control",
+            "description": "Find recommended chemical treatments and control methods for weed management",
+            "chemical_title": "Herbicide Products",
+            "chemical_description": "Effective herbicides for controlling weeds in cotton fields",
+            "dosage_title": "Application Rates",
+            "safety_title": "Safety Precautions",
+            "guidelines_title": "Application Guidelines",
+            "active_ingredient": "Active Ingredient",
+            "usage": "Usage Instructions",
+            "buy_now": "Buy Now",
+            "no_products": "No herbicide products available for this weed.",
+            "no_info": "No chemical control information available for this weed."
+        }
+    },
+    "te": {
+        "app": {
+            "title": "కలుపు మొక్కల గుర్తింపు వ్యవస్థ"
+        },
+        "nav": {
+            "home": "హోమ్",
+            "search": "శోధన యంత్రం",
+            "supplements": "రసాయనిక నియంత్రణ",
+            "contact": "మమ్మల్ని సంప్రదించండి"
+        },
+        "home": {
+            "welcome": "కలుపు మొక్కల గుర్తింపు వ్యవస్థకు స్వాగతం",
+            "subtitle": "మీ పంటలలో కలుపు మొక్కలను సమర్థవంతంగా గుర్తించండి మరియు నిర్వహించండి",
+            "search_description": "మీ పొలంలో కలుపు మొక్కలను గుర్తించడానికి చిత్రాన్ని అప్‌లోడ్ చేయండి లేదా మీ కెమెరాను ఉపయోగించండి.",
+            "chemical_control_description": "గుర్తించిన కలుపు మొక్కలకు సిఫార్సు చేసిన రసాయన చికిత్సలు మరియు నియంత్రణ పద్ధతులను కనుగొనండి.",
+            "contact_description": "మద్దతు మరియు విచారణల కోసం మా బృందాన్ని సంప్రదించండి.",
+            "start_search": "శోధన ప్రారంభించండి",
+            "view_chemical_control": "అనుబంధాలను చూడండి",
+            "why_choose_us": "మా వ్యవస్థను ఎందుకు ఎంచుకోవాలి?",
+            "easy_upload": "సులభమైన చిత్ర అప్‌లోడ్",
+            "easy_upload_description": "త్వరిత కలుపు మొక్క గుర్తింపు కోసం చిత్రాలను అప్‌లోడ్ చేయండి లేదా మీ కెమెరాను ఉపయోగించండి",
+            "multi_language": "బహుభాషా మద్దతు",
+            "multi_language_description": "ఆంగ్లం, తెలుగు, తమిళం మరియు హిందీలో సమాచారాన్ని పొందండి",
+            "accurate_detection": "ఖచ్చితమైన గుర్తింపు",
+            "accurate_detection_description": "ఖచ్చితమైన కలుపు మొక్కల వర్గీకరణ కోసం అధునాతన AI మోడల్",
+            "purchase_links": "కొనుగోలు లింక్‌లు",
+            "purchase_links_description": "సిఫార్సు చేసిన రసాయన చికిత్సలు కొనుగోలు చేయడానికి నేరుగా లింక్‌లు",
+            "supplements_description": "ఇక్కడ కలుపు మందులు కొనండి",
+            "view_supplements": "కలుపు మందులు"
+        },
+        "search": {
+            "title": "అధునాతన కలుపు మొక్కల వర్గీకరణ వ్యవస్థ",
+            "subtitle": "ఖచ్చితమైన గుర్తింపు మరియు నియంత్రణ సిఫార్సుల కోసం కలుపు మొక్క యొక్క స్పష్టమైన చిత్రాన్ని అప్‌లోడ్ చేయండి",
+            "choose_image": "విశ్లేషణ కోసం చిత్రాన్ని ఎంచుకోండి",
+            "select_image_label": "కలుపు మొక్క చిత్రాన్ని అప్‌లోడ్ చేయడానికి ఇక్కడ క్లిక్ చేయండి లేదా డ్రాగ్ చేసి డ్రాప్ చేయండి",
+            "identify": "కలుపు మొక్కను విశ్లేషించి గుర్తించండి",
+            "analyzing": "అధునాతన AI విశ్లేషణ జరుగుతోంది...",
+            "results": "వివరణాత్మక విశ్లేషణ ఫలితాలు",
+            "error": "చిత్ర విశ్లేషణలో లోపం",
+            "select_image": "దయచేసి కలుపు మొక్క యొక్క స్పష్టమైన చిత్రాన్ని ఎంచుకోండి",
+            "confidence": "AI నమ్మకత్వ స్కోరు",
+            "more_info": "సమగ్ర సమాచారాన్ని వీక్షించండి",
+            "preview": "చిత్ర విశ్లేషణ ప్రివ్యూ",
+            "no_confident_prediction": "నమ్మకమైన గుర్తింపు చేయలేకపోయాము. దయచేసి కలుపు మొక్క యొక్క మరింత స్పష్టమైన చిత్రాన్ని అందించండి."
+        },
+        "result": {
+            "weed_identification": "సమగ్ర కలుపు మొక్క విశ్లేషణ నివేదిక",
+            "confidence": "AI మోడల్ నమ్మకత్వ స్కోరు",
+            "characteristics": "వివరణాత్మక ఆకృతి లక్షణాలు & వృద్ధి లక్షణాలు",
+            "control_methods": "నిపుణుల-సిఫార్సు చేసిన నిర్వహణ వ్యూహాలు",
+            "cultural_methods": "స్థిరమైన వ్యవసాయ నియంత్రణ పద్ధతులు",
+            "mechanical_methods": "భౌతిక & మాన్యువల్ నియంత్రణ పద్ధతులు",
+            "chemical_methods": "రసాయనిక చికిత్స & అమలు మార్గదర్శకాలు",
+            "biological_methods": "సహజ & పర్యావరణ నియంత్రణ పద్ధతులు",
+            "view_chemical_control": "వివరణాత్మక రసాయనిక చికిత్స మార్గదర్శిని చూడండి",
+            "try_another": "మరొక కలుపు మొక్క చిత్రాన్ని విశ్లేషించండి",
+            "no_confident_prediction": "గుర్తింపులో తగినంత నమ్మకం లేదు. దయచేసి ఖచ్చితమైన విశ్లేషణ కోసం మరింత స్పష్టమైన చిత్రాన్ని అందించండి.",
+            "characteristic_placeholder": "అదనపు లక్షణ సమాచారం పెండింగ్‌లో ఉంది"
+        },
+        "chemical_control": {
+            "title": "అనుబంధాలు",
+            "description": "కలుపు మొక్కల నిర్వహణ కోసం సిఫార్సు చేసిన రసాయన చికిత్సలు మరియు నియంత్రణ పద్ధతులను కనుగొనండి",
+            "chemical_title": "రసాయన ఉత్పత్తులు",
+            "chemical_description": "తిఱమైన కలుపు మొక్కల నియంత్రణ కోసం మా సిఫార్సు చేసిన రసాయన చికిత్సలను బ్రౌజ్ చేయండి",
+            "control_title": "నియంత్రణ పద్ధతులు",
+            "control_description": "కలుపు మొక్కల పెరుగుదలను నియంత్రించడానికి మరియు నివారించడానికి వివిధ పద్ధతుల గురించి తెలుసుకోండి",
+            "buy_now": "ఇప్పుడే కొనండి",
+            "no_info": "ఈ కలుపు మొక్కకు అనుబంధ సమాచారం అందుబాటులో లేదు."
+        },
+        "contact": {
+            "page_title": "మమ్మల్ని సంప్రదించండి - కలుపు మొక్కల వర్గీకరణ వ్యవస్థ",
+            "title": "మమ్మల్ని సంప్రదించండి",
+            "subtitle": "మా బృందంతో సంప్రదించండి",
+            "team_title": "మా బృందం",
+            "linkedin_profile": "లింక్డ్ఇన్ ప్రొఫైల్",
+            "message_title": "మాకు సందేశం పంపండి",
+            "name_label": "పేరు",
+            "email_label": "ఇమెయిల్",
+            "subject_label": "విషయం",
+            "message_label": "సందేశం",
+            "send_button": "సందేశం పంపండి",
+            "location_title": "స్థానం",
+            "address_title": "చిరునామా",
+            "contact_info_title": "సంప్రదింపు వివరాలు",
+            "success_message": "మీ సందేశానికి ధన్యవాదాలు! మేము త్వరలో మీకు తిరిగి సమాధానం ఇస్తాము."
+        },
+        "crops": {
+            "select": "పంటను ఎంచుకోండి",
+            "cotton": "పత్తి",
+            "rice": "వరి",
+            "wheat": "గోధుమ"
+        },
+        "footer": {
+            "copyright": "© 2024 కలుపు మొక్కల వర్గీకరణ వ్యవస్థ. అన్ని హక్కులు రిజర్వ్ చేయబడ్డాయి."
+        },
+        "error": {
+            "title": "దోషం",
+            "heading": "ఒక దోషం సంభవించింది",
+            "back_to_search": "శోధనకు తిరిగి వెళ్ళండి"
+        },
+        "weeds": {
+            "Mollugo_verticillata": {
+                "name": "కార్పెట్ వీడ్స్",
+                "characteristics": [
+                    "5-30 సెం.మీ. ఎత్తు పెరిగే వార్షిక మూలిక",
+                    "కొమ్మలు పడుకుని లేదా పైకి పెరుగుతాయి, రెమ్మలు ఉంటాయి",
+                    "ఆకులు చక్రాకారంగా, సరళ లేదా దీర్ఘచతురస్రాకారంగా ఉంటాయి",
+                    "చిన్న తెల్ల పూలు గుత్తులుగా ఉంటాయి",
+                    "విత్తనాలు చిన్నవి, కిడ్నీ ఆకారంలో ఉంటాయి",
+                    "ఉథలీ జడిక ప్రణాళి",
+                    "రెట్లు మిట్టిలో బాగా పెరుగుతుంది",
+                    "పరిశాన ప్రాంతాల్లో ఆమ",
+                    "తేజీ పెరుగుదల",
+                    "సూకీ ప్రతిరోధీ",
+                    "ప్రచుర మాత్రాలో బియాన్ ఉత్పాదన",
+                    "బియాన్ అనేక సంవత్సరాలు వ్యవహారంగా ఉంటుంది",
+                    "గరమ స్థితిల్లో అంకురించినది",
+                    "ఫసల్లతో ప్రతిస్పర్ధ చేస్తుంది",
+                    "కొన్ని ఖరపతవారనాశకు ప్రతిరోధీ"
+                ]
+            },
+            "Cuscuta_campestris": {
+                "name": "సర్కుమర్వెన్స్",
+                "characteristics": [
+                    "పరాన్నజీవి వార్షిక తీగ",
+                    "పసుపు నుండి నారింజ రంగు దార వంటి తన్ను",
+                    "నిజమైన ఆకులు లేదా వేర్లు లేవు",
+                    "చిన్న తెల్ల పూలు గుత్తులుగా ఉంటాయి",
+                    "అధిక విత్తన ఉత్పత్తి",
+                    "హోస్ట్ మొక్కలకు హాస్టోరియా ద్వారా అంటుకుంటుంది",
+                    "గరమ స్థితిల్లో బాగా పెరుగుతుంది",
+                    "తేజీ పెరుగుదల",
+                    "అతిక ఆక్రమణ",
+                    "నియంత్రించడం కష్టం",
+                    "బియాన్ అనేక సంవత్సరాలు వ్యవహారంగా ఉంటుంది",
+                    "హోస్ట్ మొక్కలను మారించడం",
+                    "బియాన్ మరియు తన్ను టుకరుల ద్వారా పరవలు",
+                    "అనేక ఖరపతవారనాశకు ప్రతిరోధీ",
+                    "అనేక ఫసల్ ప్రజాతియోంలు ప్రభావితం చేస్తుంది"
+                ]
+            },
+            "Eclipta_prostrata": {
+                "name": "ఎక్లిప్టా",
+                "characteristics": [
+                    "20-60 సెం.మీ. ఎత్తు పెరిగే వార్షిక మూలిక",
+                    "తన్ను లేటుని లేదా ఊపిలోకి పెరిగే",
+                    "ఆకులు విపరీత, భాలాకారంగా",
+                    "తెల్ల పూలు సిరాలుగా ఉంటాయి",
+                    "చిన్న కాలి ప్రాపత్తి చేస్తుంది",
+                    "ఉథలీ జడిక ప్రణాళి",
+                    "నమ స్థితిల్లో బాగా పెరుగుతుంది",
+                    "ధాన ప్రాంతాల్లో ఆమ",
+                    "తేజీ పెరుగుదల",
+                    "అతిక ప్రతిస్పర్ధీ",
+                    "ప్రచుర మాత్రాలో ప్రాపత్తి",
+                    "బియాన్ అనేక సంవత్సరాలు వ్యవహారంగా ఉంటుంది",
+                    "గరమ స్థితిల్లో అంకురించినది",
+                    "బాఢ఼ ప్రతిరోధీ",
+                    "కొన్ని ఖరపతవారనాశకు ప్రతిరోధీ"
+                ]
+            },
+            "Ipomoea_purpurea": {
+                "name": "మార్నింగ్ గ్లోరీ",
+                "characteristics": [
+                    "3 మీటర్ల వరకు పెరిగే వార్షిక తీగ",
+                    "కొమ్మలు తీగలు మరియు రోమాలతో ఉంటాయి",
+                    "ఆకులు గుండె ఆకారంలో లేదా లోబ్డ్",
+                    "ఊదా నుండి గులాబీ రంగు ట్రంపెట్ ఆకారపు పూలు",
+                    "పెద్ద నల్ల విత్తనాలు ఉత్పత్తి చేస్తుంది",
+                    "విస్తృత వేరు వ్యవస్థ",
+                    "వెచ్చని పరిస్థితుల్లో బాగా పెరుగుతుంది",
+                    "వేగవంతమైన పెరుగుదల",
+                    "అధిక పోటీ",
+                    "పంటలను ఎక్కి మరియు మూసివేస్తుంది",
+                    "అధిక విత్తన ఉత్పత్తి",
+                    "విత్తనాలు చాలా సంవత్సరాలు జీవించగలవు",
+                    "వెచ్చని పరిస్థితుల్లో మొలకెత్తుతుంది",
+                    "వరద నిరోధక",
+                    "అనేక కలుపు నాశకాలకు నిరోధక"
+                ]
+            },
+            "Amaranthus_palmeri": {
+                "name": "పాల్మర్ అమరాంత్",
+                "characteristics": [
+                    "1-2 మీటర్ల ఎత్తు పెరిగే వార్షిక మూలిక",
+                    "కొమ్మలు నిటారుగా మరియు రెమ్మలు ఉంటాయి",
+                    "ఆకులు ఎదురెదురుగా, లాంసియోలేట్",
+                    "చిన్న ఆకుపచ్చ పూలు గుత్తులుగా",
+                    "అధిక విత్తన ఉత్పత్తి",
+                    "లోతైన టాప్రూట్ వ్యవస్థ",
+                    "వెచ్చని పరిస్థితుల్లో బాగా పెరుగుతుంది",
+                    "వేగవంతమైన పెరుగుదల",
+                    "అధిక పోటీ",
+                    "వరద నిరోధక",
+                    "వేలాది విత్తనాలు ఉత్పత్తి చేస్తుంది",
+                    "విత్తనాలు చాలా సంవత్సరాలు జీవించగలవు",
+                    "వెచ్చని పరిస్థితుల్లో మొలకెత్తుతుంది",
+                    "అనేక కలుపు నాశకాలకు నిరోధక",
+                    "నియంత్రించడం కష్టం"
+                ]
+            },
+            "Sida_spinosa": {
+                "name": "ముళ్ల సిడా",
+                "characteristics": [
+                    "30-100 సెం.మీ. ఎత్తు పెరిగే వార్షిక మూలిక",
+                    "కొమ్మలు నిటారుగా మరియు రెమ్మలు ఉంటాయి",
+                    "ఆకులు ఎదురెదురుగా, అండాకార",
+                    "చిన్న పసుపు పూలు",
+                    "చిన్న గోధుమ రంగు విత్తనాలు ఉత్పత్తి చేస్తుంది",
+                    "లోతైన టాప్రూట్ వ్యవస్థ",
+                    "వెచ్చని పరిస్థితుల్లో బాగా పెరుగుతుంది",
+                    "వేగవంతమైన పెరుగుదల",
+                    "అధిక పోటీ",
+                    "వరద నిరోధక",
+                    "అధిక విత్తన ఉత్పత్తి",
+                    "విత్తనాలు చాలా సంవత్సరాలు జీవించగలవు",
+                    "వెచ్చని పరిస్థితుల్లో మొలకెత్తుతుంది",
+                    "కొన్ని కలుపు నాశకాలకు నిరోధక",
+                    "ముళ్ల కొమ్మలు"
+                ]
+            },
+            "Euphorbia_maculata": {
+                "name": "చుక్కల ఎయూఫోర్బియా",
+                "characteristics": [
+                    "10-30 సెం.మీ. ఎత్తు పెరిగే వార్షిక మూలిక",
+                    "కొమ్మలు పడుకుని మరియు రెమ్మలు ఉంటాయి",
+                    "ఆకులు ఎదురెదురుగా, దీర్ఘచతురస్ర",
+                    "ఎరుపు చుక్కలతో చిన్న ఆకుపచ్చ పూలు",
+                    "చిన్న గోధుమ రంగు విత్తనాలు ఉత్పత్తి చేస్తుంది",
+                    "లోతు లేని వేరు వ్యవస్థ",
+                    "వెచ్చని పరిస్థితుల్లో బాగా పెరుగుతుంది",
+                    "వేగవంతమైన పెరుగుదల",
+                    "అధిక పోటీ",
+                    "వరద నిరోధక",
+                    "అధిక విత్తన ఉత్పత్తి",
+                    "విత్తనాలు చాలా సంవత్సరాలు జీవించగలవు",
+                    "వెచ్చని పరిస్థితుల్లో మొలకెత్తుతుంది",
+                    "కొన్ని కలుపు నాశకాలకు నిరోధక",
+                    "పాల వంటి రసం"
+                ]
+            },
+            "Anoda_cristata": {
+                "name": "స్పర్డ్ అనోడా",
+                "characteristics": [
+                    "30-100 సెం.మీ. ఎత్తు పెరిగే వార్షిక మూలిక",
+                    "కొమ్మలు నిటారుగా మరియు రెమ్మలు ఉంటాయి",
+                    "ఆకులు ఎదురెదురుగా, త్రిభుజాకార",
+                    "స్పర్స్ తో ఊదా పూలు",
+                    "చిన్న నల్ల విత్తనాలు ఉత్పత్తి చేస్తుంది",
+                    "లోతైన టాప్రూట్ వ్యవస్థ",
+                    "వెచ్చని పరిస్థితుల్లో బాగా పెరుగుతుంది",
+                    "వేగవంతమైన పెరుగుదల",
+                    "అధిక పోటీ",
+                    "వరద నిరోధక",
+                    "అధిక విత్తన ఉత్పత్తి",
+                    "విత్తనాలు చాలా సంవత్సరాలు జీవించగలవు",
+                    "వెచ్చని పరిస్థితుల్లో మొలకెత్తుతుంది",
+                    "కొన్ని కలుపు నాశకాలకు నిరోధక",
+                    "స్పర్డ్ పూలు"
+                ]
+            },
+            "Coronopus_didymus": {
+                "name": "స్వైన్క్రెస్",
+                "characteristics": [
+                    "10-40 సెం.మీ. ఎత్తు పెరిగే వార్షిక మూలిక",
+                    "కొమ్మలు పడుకుని మరియు రెమ్మలు ఉంటాయి",
+                    "ఆకులు పెన్నేట్ విభజించబడ్డాయి",
+                    "చిన్న తెల్ల పూలు",
+                    "చిన్న గుండ్రని విత్తనాలు ఉత్పత్తి చేస్తుంది",
+                    "లోతు లేని వేరు వ్యవస్థ",
+                    "చల్లని పరిస్థితుల్లో బాగా పెరుగుతుంది",
+                    "వేగవంతమైన పెరుగుదల",
+                    "అధిక పోటీ",
+                    "తేమకు ఇష్టపడే",
+                    "అధిక విత్తన ఉత్పత్తి",
+                    "విత్తనాలు చాలా సంవత్సరాలు జీవించగలవు",
+                    "చల్లని పరిస్థితుల్లో మొలకెత్తుతుంది",
+                    "కొన్ని కలుపు నాశకాలకు నిరోధక",
+                    "బలమైన వాసన"
+                ]
+            },
+            "Amaranthus_tuberculatus": {
+                "name": "వాటర్హెంప్",
+                "characteristics": [
+                    "1-2 మీ. ఎత్తు పెరిగే వార్షిక మూలిక",
+                    "కొమ్మలు నిటారుగా మరియు రెమ్మలు ఉంటాయి",
+                    "ఆకులు ఎదురెదురుగా, లాంసెట్",
+                    "స్పైక్స్‌లో చిన్న ఆకుపచ్చ పూలు",
+                    "చిన్న నల్ల విత్తనాలు ఉత్పత్తి చేస్తుంది",
+                    "లోతైన టాప్రూట్ వ్యవస్థ",
+                    "వెచ్చని పరిస్థితుల్లో బాగా పెరుగుతుంది",
+                    "వేగవంతమైన పెరుగుదల",
+                    "అధిక పోటీ",
+                    "వరద నిరోధక",
+                    "అధిక విత్తన ఉత్పత్తి",
+                    "విత్తనాలు చాలా సంవత్సరాలు జీవించగలవు",
+                    "వెచ్చని పరిస్థితుల్లో మొలకెత్తుతుంది",
+                    "అనేక కలుపు నాశకాలకు నిరోధక",
+                    "పురుష మరియు స్త్రీ పూలు వేర్వేరు మొక్కలపై"
+                ]
+            },
+            "Digitaria_sanguinalis": {
+                "name": "క్రాబ్ గ్రాస్",
+                "characteristics": [
+                    "30-60 సెం.మీ. ఎత్తు పెరిగే వార్షిక గడ్డి",
+                    "కొమ్మలు పడుకుని మరియు నోడ్స్‌లో వేరు పెట్టుతుంది",
+                    "ఆకులు చదునుగా మరియు రోమాలతో",
+                    "స్పైక్స్‌లో చిన్న ఆకుపచ్చ పూలు",
+                    "చిన్న గోధుమ రంగు విత్తనాలు ఉత్పత్తి చేస్తుంది",
+                    "ఫైబ్రస్ వేరు వ్యవస్థ",
+                    "వెచ్చని పరిస్థితుల్లో బాగా పెరుగుతుంది",
+                    "వేగవంతమైన పెరుగుదల",
+                    "అధిక పోటీ",
+                    "వరద నిరోధక",
+                    "అధిక విత్తన ఉత్పత్తి",
+                    "విత్తనాలు చాలా సంవత్సరాలు జీవించగలవు",
+                    "వెచ్చని పరిస్థితుల్లో మొలకెత్తుతుంది",
+                    "కొన్ని కలుపు నాశకాలకు నిరోధక",
+                    "స్టోలన్స్ ద్వారా వ్యాప్తి"
+                ]
+            },
+            "Eleusine_indica": {
+                "name": "గూస్ గ్రాస్",
+                "characteristics": [
+                    "20-60 సెం.మీ. ఎత్తు పెరిగే వార్షిక గడ్డి",
+                    "కొమ్మలు చదునుగా మరియు తెల్లగా",
+                    "ఆకులు చదునుగా మరియు మడత పెట్టబడ్డాయి",
+                    "స్పైక్స్‌లో చిన్న ఆకుపచ్చ పూలు",
+                    "చిన్న గోధుమ రంగు విత్తనాలు ఉత్పత్తి చేస్తుంది",
+                    "ఫైబ్రస్ వేరు వ్యవస్థ",
+                    "వెచ్చని పరిస్థితుల్లో బాగా పెరుగుతుంది",
+                    "వేగవంతమైన పెరుగుదల",
+                    "అధిక పోటీ",
+                    "వరద నిరోధక",
+                    "అధిక విత్తన ఉత్పత్తి",
+                    "విత్తనాలు చాలా సంవత్సరాలు జీవించగలవు",
+                    "వెచ్చని పరిస్థితుల్లో మొలకెత్తుతుంది",
+                    "కొన్ని కలుపు నాశకాలకు నిరోధక",
+                    "తెల్ల కొమ్మ బేస్"
+                ]
+            },
+            "Brachypodium_sylvaticum": {
+                "name": "ఫాల్స్ బ్రోమ్",
+                "characteristics": [
+                    "60-120 సెం.మీ. ఎత్తు పెరిగే బహువార్షిక గడ్డి",
+                    "కొమ్మలు నిటారుగా మరియు టఫ్టెడ్",
+                    "ఆకులు చదునుగా మరియు రోమాలతో",
+                    "స్పైక్స్‌లో చిన్న ఆకుపచ్చ పూలు",
+                    "చిన్న గోధుమ రంగు విత్తనాలు ఉత్పత్తి చేస్తుంది",
+                    "ఫైబ్రస్ వేరు వ్యవస్థ",
+                    "చల్లని పరిస్థితుల్లో బాగా పెరుగుతుంది",
+                    "మధ్యస్థ పెరుగుదల",
+                    "పోటీ",
+                    "నీడ నిరోధక",
+                    "అధిక విత్తన ఉత్పత్తి",
+                    "విత్తనాలు చాలా సంవత్సరాలు జీవించగలవు",
+                    "చల్లని పరిస్థితుల్లో మొలకెత్తుతుంది",
+                    "కొన్ని కలుపు నాశకాలకు నిరోధక",
+                    "దట్టమైన టఫ్ట్స్ ఏర్పరుస్తుంది"
+                ]
+            }
+        },
+        "supplements": {
+            "title": "రసాయనిక నియంత్రణ",
+            "description": "కలుపు మొక్కల నిర్వహణ కోసం సిఫార్సు చేసిన రసాయన చికిత్సలు మరియు నియంత్రణ పద్ధతులను కనుగొనండి",
+            "chemical_title": "కలుపు మందులు",
+            "chemical_description": "పత్తి పొలాలలో కలుపు మొక్కలను నియంత్రించడానికి సమర్థవంతమైన కలుపు మందులు",
+            "dosage_title": "వినియోగ రేట్లు",
+            "safety_title": "భద్రతా జాగ్రత్తలు",
+            "guidelines_title": "వినియోగ మార్గదర్శకాలు",
+            "active_ingredient": "క్రియాశీల పదార్థం",
+            "usage": "వినియోగ సూచనలు",
+            "buy_now": "ఇప్పుడు కొనండి",
+            "no_products": "ఈ కలుపు మొక్కకు కలుపు మందులు అందుబాటులో లేవు.",
+            "no_info": "ఈ కలుపు మొక్కకు రసాయనిక నియంత్రణ సమాచారం అందుబాటులో లేదు."
+        }
+    },
+    "ta": {
+        "app": {
+            "title": "களை அடையாள அமைப்பு"
+        },
+        "nav": {
+            "home": "முகப்பு",
+            "search": "தேடல் இயந்திரம்",
+            "supplements": "வேதியியல் கட்டுப்பாடு",
+            "contact": "எங்களை தொடர்பு கொள்ள"
+        },
+        "home": {
+            "welcome": "களை அடையாள அமைப்பிற்கு வரவேற்கிறோம்",
+            "subtitle": "உங்கள் பயிர்களில் களைகளை திறம்பட அடையாளம் கண்டு நிர்வகிக்கவும்",
+            "search_description": "உங்கள் வயலில் களைகளை அடையாளம் காண படத்தை பதிவேற்றவும் அல்லது உங்கள் கேமராவைப் பயன்படுத்தவும்.",
+            "chemical_control_description": "அடையாளம் காணப்பட்ட களைகளுக்கான பரிந்துரைக்கப்பட்ட வேதியியல் சிகிச்சைகள் மற்றும் கட்டுப்பாட்டு முறைகளைக் கண்டறியவும்.",
+            "contact_description": "ஆதரவு மற்றும் விசாரணைகளுக்கு எங்கள் குழுவைத் தொடர்பு கொள்ளவும்.",
+            "start_search": "தேடலைத் தொடங்கு",
+            "view_chemical_control": "துணை தகவல்களைக் காண",
+            "why_choose_us": "எங்கள் அமைப்பை ஏன் தேர்வு செய்ய வேண்டும்?",
+            "easy_upload": "எளிதான பட பதிவேற்றம்",
+            "easy_upload_description": "உடனடி களை அடையாளத்திற்கு படங்களை பதிவேற்றவும் அல்லது உங்கள் கேமராவைப் பயன்படுத்தவும்",
+            "select_image_label": "களை படத்தை பதிவேற்ற இங்கே கிளிக் செய்யவும் அல்லது இழுத்து விடவும்",
+            "identify": "களையை பகுப்பாய்வு செய்து அடையாளம் காணவும்",
+            "analyzing": "மேம்பட்ட AI பகுப்பாய்வு நடைபெறுகிறது...",
+            "results": "விரிவான பகுப்பாய்வு முடிவுகள்",
+            "error": "பட பகுப்பாய்வில் பிழை",
+            "select_image": "தயவுசெய்து களையின் தெளிவான படத்தைத் தேர்ந்தெடுக்கவும்",
+            "confidence": "AI நம்பகத்தன்மை மதிப்பெண்",
+            "more_info": "விரிவான தகவலைக் காண",
+            "preview": "பட பகுப்பாய்வு முன்னோட்டம்",
+            "no_confident_prediction": "நம்பகமான அடையாளம் காண முடியவில்லை. தயவுசெய்து களையின் தெளிவான படத்தை வழங்கவும்."
+        },
+        "result": {
+            "weed_identification": "விரிவான களை பகுப்பாய்வு அறிக்கை",
+            "confidence": "AI மாதிரி நம்பகத்தன்மை மதிப்பெண்",
+            "characteristics": "விரிவான உருவவியல் அம்சங்கள் & வளர்ச்சி பண்புகள்",
+            "control_methods": "நிபுணர்-பரிந்துரைத்த மேலாண்மை உத்திகள்",
+            "cultural_methods": "ஸ்஥ாயைய விவசாய கட்டுப்பாட்டு முறைகள்",
+            "mechanical_methods": "இயற்பியல் & கையேடு கட்டுப்பாட்டு நுட்பங்கள்",
+            "chemical_methods": "வேதியியல் சிகிச்சை & பயன்பாட்டு வழிகாட்டுதல்கள்",
+            "biological_methods": "இயற்கை & சூழலியல் கட்டுப்பாட்டு முறைகள்",
+            "view_chemical_control": "விரிவான வேதியியல் சிகிச்சை வழிகாட்டியைக் பார்க்கவும்",
+            "try_another": "மற்றொரு களை படத்தை பகுப்பாய்வு செய்யவும்",
+            "no_confident_prediction": "அடையாளத்தில் போதுமான நம்பகத்தன்மை இல்லை. துல்லியமான பகுப்பாய்விற்கு மேலும் தெளிவான படத்தை வழங்கவும்.",
+            "characteristic_placeholder": "கூடுதல் பண்புகள் தகவல் நிலுவையில் உள்ளது"
+        },
+        "chemical_control": {
+            "title": "துணை தகவல்கள்",
+            "description": "களை மேலாண்மைக்கான பரிந்துரைக்கப்பட்ட வேதியியல் சிகிச்சைகள் மற்றும் கட்டுப்பாட்டு முறைகளைக் கண்டறியவும்",
+            "chemical_title": "வேதியியல் பொருட்கள்",
+            "chemical_description": "திறமையான களை கட்டுப்பாட்டிற்கான எங்கள் பரிந்துரைக்கப்பட்ட வேதியியல் சிகிச்சைகளை உலாவுங்கள்",
+            "control_title": "கட்டுப்பாட்டு முறைகள்",
+            "control_description": "களை வளர்ச்சியைக் கட்டுப்படுத்த மற்றும் தடுக்க பல்வேறு முறைகளைப் பற்றி அறிந்து கொள்ளுங்கள்",
+            "buy_now": "இப்போதே வாங்கு",
+            "no_info": "இந்த களைக்கு துணை தகவல்கள் எதுவும் கிடைக்கவில்லை."
+        },
+        "contact": {
+            "page_title": "எங்களை தொடர்பு கொள்ள - களை வகைப்பாட்டு அமைப்பு",
+            "title": "எங்களை தொடர்பு கொள்ள",
+            "subtitle": "எங்கள் குழுவுடன் தொடர்பு கொள்ளுங்கள்",
+            "team_title": "எங்கள் குழு",
+            "linkedin_profile": "லிங்க்ட்இன் சுயவிவரம்",
+            "message_title": "எங்களுக்கு செய்தி அனுப்புங்கள்",
+            "name_label": "பெயர்",
+            "email_label": "மின்னஞ்சல்",
+            "subject_label": "பொருள்",
+            "message_label": "செய்தி",
+            "send_button": "செய்தி அனுப்பு",
+            "location_title": "இடம்",
+            "address_title": "முகவரி",
+            "contact_info_title": "தொடர்பு தகவல்",
+            "success_message": "உங்கள் செய்திக்கு நன்றி! நாங்கள் விரைவில் உங்களுக்கு பதிலளிப்போம்."
+        },
+        "crops": {
+            "select": "பயிரைத் தேர்ந்தெடுக்கவும்",
+            "cotton": "பருத்தி",
+            "rice": "வரி",
+            "wheat": "கோதுமை"
+        },
+        "footer": {
+            "copyright": "© 2024 களை வகைப்பாட்டு அமைப்பு. அனைத்து உரிமைகளும் பாதுகாக்கப்பட்டவை."
+        },
+        "error": {
+            "title": "பிழை",
+            "heading": "ஒரு பிழை ஏற்பட்டது",
+            "back_to_search": "தேடலுக்குத் திரும்பு"
+        },
+        "weeds": {
+            "Mollugo_verticillata": {
+                "name": "கார்பெட் களைகள்",
+                "characteristics": [
+                    "5-30 செ.மீ உயரம் வளரும் வருடாந்திர மூலிகை",
+                    "தண்டுகள் படுக்கையாகவோ மேல்நோக்கியோ கிளைத்து வளர்கின்றன",
+                    "இலைகள் சுற்று வட்டமாக, நேரான அல்லது நீள்வட்டமாக உள்ளன",
+                    "சிறிய வெள்ளை மலர்கள் கொத்துகளாக உள்ளன",
+                    "விతైகள் சிறியவை, கிடநீரக வடிவமானவை",
+                    "உடல்லீ ஜடிக ப్ரணாளி",
+                    "ரெட்டல் மிட்டில் நன்றாக வளர்கிறது",
+                    "பரிஶாந் ப்ராம்த்திகளில் ஆம",
+                    "தேஜீ பெருக்கம்",
+                    "ஸூகீ ப்ரதிரோ஧ீ",
+                    "ப்ரசுர மாத்ராலோ ப்யான் உத்பாதியம்",
+                    "ப்யான் அநேக வருடங்களுக்கு விவஹாரம்",
+                    "கரம் ஸ்஥ிதில் அங்காரித்தது",
+                    "பலியில்லோ ப்ரதிஸ்பர்த்தியம்",
+                    "சில களைக்கொல்லிகளுக்கு ப்ரதிரோ஧ீ"
+                ]
+            },
+            "Cuscuta_campestris": {
+                "name": "சர்க்குமர்வென்ஸ்",
+                "characteristics": [
+                    "பராந்நஜீவி வருடாந்திர தீவி",
+                    "பீலே நாரிங்கு வண்ணம் கொடுக்கு போன்ற தீவி",
+                    "நிஜமైந ஆகுகள் அல்லது வேர்கள் இல்லை",
+                    "சிறிய வெள்ளை மலர்கள் கொத்துகளாக உள்ளன",
+                    "அதிக விதை உத்பாதியம்",
+                    "ஹோஸ்ட் மொக்கங்களுடன் ஹாஸ்டோரியா மூலம் இணைகிறது",
+                    "கரம் ஸ்஥ிதில் நன்றாக வளர்கிறது",
+                    "தேஜீ பெருக்கம்",
+                    "அதிக ஆக்ரமணம்",
+                    "நியமத்திரித்த கடினம்",
+                    "ப்யான் அநேக வருடங்களுக்கு விவஹாரம்",
+                    "ஹோஸ்ட் மொக்கங்களை மார்த்தியம்",
+                    "ப்யான் மரியும் தீவியால் பரவியம்",
+                    "அநேக களைக்கொல்லிகளுக்கு ப்ரதிரோ஧ீ",
+                    "அநேக பயிர் இனங்களை பாதிக்கிறது"
+                ]
+            },
+            "Eclipta_prostrata": {
+                "name": "ஏக்லிப்டா",
+                "characteristics": [
+                    "20-60 செ.மீ உயரம் வளரும் வருடாந்திர மூலிகை",
+                    "தீவிகள் படுக்கையாகவோ மேல்நோக்கியோ வளர்கின்றன",
+                    "ஆகுகள் விపரீத, பாலாகாரம்",
+                    "வெள்ளை மலர்கள் முனையில்",
+                    "சிறிய கால் ப்யான் உத்பாதியம் செய்கிறது",
+                    "உடல்லீ ஜடிக ப్ரணாளி",
+                    "நம் ஸ்஥ிதில் நன்றாக வளர்கிறது",
+                    "நெல் ப்ராம்த்திகளில் ஆம",
+                    "தேஜீ பெருக்கம்",
+                    "அதிக ப்யான் உத்பாதியம்",
+                    "ப்யான் அநேக வருடங்களுக்கு விவஹாரம்",
+                    "கரம் ஸ்஥ிதில் அங்காரித்தது",
+                    "பாட்டி ப்ரதிரோ஧ீ",
+                    "சில களைக்கொல்லிகளுக்கு ப்ரதிரோ஧ீ"
+                ]
+            },
+            "Ipomoea_purpurea": {
+                "name": "மார்நிம்ப் க்ளோரி",
+                "characteristics": [
+                    "3 மீட்டர் வரக்கு பெரிய வார்ஷிக தீவி",
+                    "கொம்மலும் ரோமால் உள்ளன",
+                    "ஆகுலு கும்மெ ஆகாரம் லேவு",
+                    "ஊதா நுட்பம் கொள்ளும் பூல்",
+                    "பெட்ட நல்ல விதைகள் உத்பத்தி செய்கிறது",
+                    "விஸ்த௃த வேரு வ்யவஸ்஥",
+                    "வெச்சநி பரிஸ்஥ிதுல்லோ நன்றாக வளர்கிறது",
+                    "வேகவான வளர்ச்சி",
+                    "அதிக போட்டி",
+                    "பாடுகள் எக்கி மற்றும் மூசிவேஸ்தும்",
+                    "அதிக விதை உத்பத்தி",
+                    "விதைகள் பல ஆண்டுகள் உயிர்வாழும்",
+                    "வெச்சநி பரிஸ்஥ிதுல்லோ மொல்கெத்துதும்",
+                    "வரத் நிரோ஧க",
+                    "அநேக களைக்கொல்லிகளுக்கு நிரோ஧க"
+                ]
+            },
+            "Amaranthus_palmeri": {
+                "name": "பால்மர் அமராத்",
+                "characteristics": [
+                    "1-2 மீட்டர் உயரம் பெரிய வார்ஷிக மூலிகை",
+                    "கொம்மலும் நிடாரும் ரెம்மும் உள்ளன",
+                    "ஆகுலு எதுரெதுரும், லாஸியோலேட்",
+                    "சிறிய ஆகுப்ச்ச பூல்",
+                    "அதிக விதை உத்பத்தி",
+                    "லோதைந் டாப்ப்ரூட் வ்யவஸ்஥",
+                    "வெச்சநி பரிஸ்஥ிதுல்லோ நன்றாக வளர்கிறது",
+                    "வேகவான வளர்ச்சி",
+                    "அதிக போட்டி",
+                    "வரத் நிரோ஧க",
+                    "வேலாதி விதைகள் உத்பத்தி செய்கிறது",
+                    "விஸ்த௃த வேரு வ்யவஸ்஥",
+                    "வெச்சநி பரிஸ்஥ிதுல்லோ மொல்கெத்துதும்",
+                    "வரத் நிரோ஧க",
+                    "அநேக களைக்கொல்லிகளுக்கு நிரோ஧க",
+                    "வேலாதி விதைகள் உத்பத்தி செய்கிறது"
+                ]
+            },
+            "Sida_spinosa": {
+                "name": "முள்ள ஸிடா",
+                "characteristics": [
+                    "30-100 செ.மீ உயரம் பெரிய வார்ஷిக மூலிகை",
+                    "கொம்மலும் நிடாரும் ரెம்மும் உள்ளன",
+                    "ஆகுலு எதுரெதுரும், அம்முகார",
+                    "சிறிய பஸுப்பு பூல்",
+                    "சிறிய கோதுமை ரங்கு விதைகள் உற்பத்தி செய்கிறது",
+                    "லோதைந் டாப்ப்ரூட் வ்யவஸ்஥",
+                    "வெச்சநி பரிஸ்஥ிதுல்லோ நன்றாக வளர்கிறது",
+                    "வேகவான வளர்ச்சி",
+                    "அதிக போட்டி",
+                    "வரத் நிரோ஧க",
+                    "அதிக விதை உற்பத்தி",
+                    "விதைகள் பல ஆண்டுகள் உயிர்வாழும்",
+                    "வெச்சநி பரிஸ்஥ிதுல்லோ மொல்கெத்துதும்",
+                    "கொந்நிக்கு நிரோ஧க",
+                    "முள்ள கொம்மலும்"
+                ]
+            },
+            "Euphorbia_maculata": {
+                "name": "புள்ளி யூஃபோர்பியா",
+                "characteristics": [
+                    "10-30 செ.மீ உயரம் வளரும் வருடாந்திர மூலிகை",
+                    "தண்டுகள் படுக்கையாகவோ மேல்நோக்கியோ கிளைத்து வளர்கின்றன",
+                    "இலைகள் சுற்று வட்டமாக, நேரான அல்லது நீள்வட்டமாக உள்ளன",
+                    "சிறிய வெள்ளை மலர்கள் கொத்துகளாக உள்ளன",
+                    "விதைகள் சிறியவை, கிடநீரக வடிவமானவை",
+                    "உடல்லீ ஜடிக ப్ரணாளி",
+                    "ரெட்டல் மிட்டில் நன்றாக வளர்கிறது",
+                    "பரிஶாந் ப்ராம்த்திகளில் ஆம",
+                    "தேஜீ பெருக்கம்",
+                    "ஸூகீ ப்ரதிரோ஧ீ",
+                    "ப்ரசுர மாத்ராலோ ப்யான் உத்பாதியம்",
+                    "ப்யான் அநேக வருடங்களுக்கு விவஹாரம்",
+                    "கரம் ஸ்஥ிதில் அங்காரித்தது",
+                    "பலியில்லோ ப்ரதிஸ்பர்த்தியம்",
+                    "சில களைக்கொல்லிகளுக்கு ப்ரதிரோ஧ீ"
+                ]
+            },
+            "Anoda_cristata": {
+                "name": "ஸ்பர்ர்ட் அனோடா",
+                "characteristics": [
+                    "30-100 செ.மீ உயரம் வளரும் வருடாந்திர மூலிகை",
+                    "தண்டுகள் நிமிர்ந்தும் கிளைத்தும் உள்ளன",
+                    "இலைகள் முக்கோண வடிவமானவை",
+                    "ஊதா மலர்கள் ஸ்பர்ஸ் உடன்",
+                    "சிறிய கருப்பு விதைகள் உற்பத்தி செய்கிறது",
+                    "ஆழமான தாப்ரூட் மண்டலம்",
+                    "வெப்பமான நிலையில் நன்றாக வளர்கிறது",
+                    "வேகமான வளர்ச்சி",
+                    "உயர் போட்டி",
+                    "வறட்சி எதிர்ப்பு",
+                    "அதிக விதை உற்பத்தி",
+                    "விதைகள் பல ஆண்டுகள் உயிர்வாழும்",
+                    "வெப்பமான நிலையில் முளைக்கும்",
+                    "சில களைக்கொல்லிகளுக்கு எதிர்ப்பு",
+                    "ஸ்பர்ர்ட் மலர்கள்"
+                ]
+            },
+            "Coronopus_didymus": {
+                "name": "ஸ்வைன்கிரெஸ்",
+                "characteristics": [
+                    "10-40 செ.மீ உயரம் வளரும் வருடாந்திர மூலிகை",
+                    "தண்டுகள் படுக்கையாகவோ மேல்நோக்கியோ வளர்கின்றன",
+                    "ஆகுகள் விపரீத, பாலாகாரம்",
+                    "வெள்ளை மலர்கள் முனையில்",
+                    "சிறிய கால் ப்யான் உத்பாதியம் செய்கிறது",
+                    "உடல்லீ ஜடிக ப్ரணாளி",
+                    "நம் ஸ்஥ிதில் நன்றாக வளர்கிறது",
+                    "நெல் ப்ராம்த்திகளில் ஆம",
+                    "தேஜீ பெருக்கம்",
+                    "அதிக ப்யான் உத்பாதியம்",
+                    "ப்யான் அநேக வருடங்களுக்கு விவஹாரம்",
+                    "கரம் ஸ்஥ிதில் அங்காரித்தது",
+                    "பாட்டி ப்ரதிரோ஧ீ",
+                    "சில களைக்கொல்லிகளுக்கு ப்ரதிரோ஧ீ"
+                ]
+            },
+            "Amaranthus_tuberculatus": {
+                "name": "வாட்டர்ஹெம்ப్",
+                "characteristics": [
+                    "1-2 மீ உயரம் வளரும் வருடாந்திர மூலிகை",
+                    "தண்டுகள் நிமிர்ந்தும் கிளைத்தும் உள்ளன",
+                    "இலைகள் ஈட்டி வடிவமானவை",
+                    "சிறிய பச்சை மலர்கள் கொத்துகளாக உள்ளன",
+                    "சிறிய கருப்பு விதைகள் உற்பத்தி செய்கிறது",
+                    "ஆழமான தாப்ரூட் மண்டலம்",
+                    "வெப்பமான நிலையில் நன்றாக வளர்கிறது",
+                    "வேகமான வளர்ச்சி",
+                    "உயர் போட்டி",
+                    "வறட்சி எதிர்ப்பு",
+                    "அதிக விதை உற்பத்தி",
+                    "விதைகள் பல ஆண்டுகள் உயிர்வாழும்",
+                    "வெப்பமான நிலையில் முளைக்கும்",
+                    "பல களைக்கொல்லிகளுக்கு எதிர்ப்பு",
+                    "ஆண் மற்றும் பெண் மலர்கள் தனித்தனி மரங்களில்"
+                ]
+            },
+            "Digitaria_sanguinalis": {
+                "name": "கிராப் கிராஸ்",
+                "characteristics": [
+                    "30-60 செ.மீ உயரம் வளரும் வருடாந்திர புல்",
+                    "தண்டுகள் படுக்கையாகவும் முனைகளில் வேர்கள் கொண்டும் உள்ளன",
+                    "இலைகள் தட்டையாகவும் முடி கொண்டும் உள்ளன",
+                    "சிறிய பச்சை மலர்கள் கொத்துகளாக உள்ளன",
+                    "சிறிய பழுப்பு விதைகள் உற்பத்தி செய்கிறது",
+                    "நாரிழை வேர் மண்டலம்",
+                    "வெப்பமான நிலையில் நன்றாக வளர்கிறது",
+                    "வேகமான வளர்ச்சி",
+                    "உயர் போட்டி",
+                    "வறட்சி எதிர்ப்பு",
+                    "அதிக விதை உற்பத்தி",
+                    "விதைகள் பல ஆண்டுகள் உயிர்வாழும்",
+                    "வெப்பமான நிலையில் முளைக்கும்",
+                    "சில களைக்கொல்லிகளுக்கு எதிர்ப்பு",
+                    "ஸ்டோலன்கள் மூலம் பரவும்"
+                ]
+            },
+            "Eleusine_indica": {
+                "name": "கூஸ் கிராஸ்",
+                "characteristics": [
+                    "20-60 செ.மீ உயரம் வளரும் வருடாந்திர புல்",
+                    "தண்டுகள் தட்டையாகவும் வெளிராகவும் உள்ளன",
+                    "இலைகள் தட்டையாகவும் மடிந்தும் உள்ளன",
+                    "சிறிய பச்சை மலர்கள் கொத்துகளாக உள்ளன",
+                    "சிறிய பழுப்பு விதைகள் உற்பத்தி செய்கிறது",
+                    "நாரிழை வேர் மண்டலம்",
+                    "வெப்பமான நிலையில் நன்றாக வளர்கிறது",
+                    "வேகமான வளர்ச்சி",
+                    "உயர் போட்டி",
+                    "வறட்சி எதிர்ப்பு",
+                    "அதிக விதை உற்பத்தி",
+                    "விதைகள் பல ஆண்டுகள் உயிர்வாழும்",
+                    "வெப்பமான நிலையில் முளைக்கும்",
+                    "சில களைக்கொல்லிகளுக்கு எதிர்ப்பு",
+                    "வெள்ளை தண்டு அடிப்பகுதி"
+                ]
+            },
+            "Brachypodium_sylvaticum": {
+                "name": "பால்ஸ் ப்ரோம்",
+                "characteristics": [
+                    "60-120 செ.மீ உயரம் வளரும் பல்லாண்டு புல்",
+                    "தண்டுகள் நிமிர்ந்தும் கொத்துகளாகவும் உள்ளன",
+                    "இலைகள் தட்டையாகவும் முடி கொண்டும் உள்ளன",
+                    "சிறிய பச்சை மலர்கள் கொத்துகளாக உள்ளன",
+                    "சிறிய பழுப்பு விதைகள் உற்பத்தி செய்கிறது",
+                    "நாரிழை வேர் மண்டலம்",
+                    "குளிர்ந்த நிலையில் நன்றாக வளர்கிறது",
+                    "மிதமான வளர்ச்சி",
+                    "போட்டி",
+                    "நிழல் எதிர்ப்பு",
+                    "அதிக விதை உற்பத்தி",
+                    "விதைகள் பல ஆண்டுகள் உயிர்வாழும்",
+                    "குளிர்ந்த நிலையில் முளைக்கும்",
+                    "சில களைக்கொல்லிகளுக்கு எதிர்ப்பு",
+                    "அடர்ந்த கொத்துகளை உருவாக்கும்"
+                ]
+            }
+        },
+        "supplements": {
+            "title": "வேதியியல் கட்டுப்பாடு",
+            "description": "களை மேலாண்மைக்கான பரிந்துரைக்கப்பட்ட வேதியியல் சிகிச்சைகள் மற்றும் கட்டுப்பாட்டு முறைகளைக் கண்டறியவும்",
+            "chemical_title": "களைக்கொல்லி தயாரிப்புகள்",
+            "chemical_description": "பருத்தி வயல்களில் களைகளைக் கட்டுப்படுத்த திறமையான களைக்கொல்லிகள்",
+            "dosage_title": "பயன்பாட்டு விகிதங்கள்",
+            "safety_title": "பாதுகாப்பு முன்னெச்சரிக்கைகள்",
+            "guidelines_title": "பயன்பாட்டு வழிகாட்டுதல்கள்",
+            "active_ingredient": "செயலில் உள்ள பொருள்",
+            "usage": "பயன்பாட்டு வழிமுறைகள்",
+            "buy_now": "இப்போது வாங்கு",
+            "no_products": "இந்த களைக்கு களைக்கொல்லி தயாரிப்புகள் கிடைக்கவில்லை.",
+            "no_info": "இந்த களைக்கு வேதியியல் கட்டுப்பாட்டு தகவல் கிடைக்கவில்லை."
+        }
+    },
+    "hi": {
+        "app": {
+            "title": "खरपतवार पहचान प्रणाली"
+        },
+        "nav": {
+            "home": "होम",
+            "search": "खोज",
+            "supplements": "रासायनिक नियंत्रण",
+            "contact": "संपर्क करें"
+        },
+        "home": {
+            "welcome": "खरपतवार पहचान प्रणाली में आपका स्वागत है",
+            "subtitle": "अपनी फसलों में खरपतवार की कुशलतापूर्वक पहचान और प्रबंधन करें",
+            "search_description": "अपने खेत में खरपतवार की पहचान के लिए छवि अपलोड करें या अपना कैमरा उपयोग करें।",
+            "chemical_control_description": "पहचाने गए खरपतवार के लिए अनुशंसित रासायनिक उपचार और नियंत्रण विधियां खोजें।",
+            "contact_description": "सहायता और पूछताछ के लिए हमारी टीम से संपर्क करें।",
+            "start_search": "खोज शुरू करें",
+            "view_chemical_control": "पूरक जानकारी देखें",
+            "why_choose_us": "हमारी प्रणाली को क्यों चुनें?",
+            "easy_upload": "आसान छवि अपलोड",
+            "easy_upload_description": "तत्काल खरपतवार पहचान के लिए छवियां अपलोड करें या अपना कैमरा उपयोग करें",
+            "multi_language": "बहुभाषी समर्थन",
+            "multi_language_description": "अंग्रेजी, तेलुगु, तमिल और हिंदी में जानकारी प्राप्त करें",
+            "accurate_detection": "सटीक पहचान",
+            "accurate_detection_description": "सटीक खरपतवार वर्गीकरण के लिए उन्नत AI मॉडल",
+            "purchase_links": "खरीद लिंक",
+            "purchase_links_description": "अनुशंसित रासायनिक उपचार खरीदने के लिए सीधे लिंक",
+            "supplements_description": "यहाँ शाकनाशी खरीदें",
+            "view_supplements": "शाकनाशी"
+        },
+        "search": {
+            "title": "उन्नत खरपतवार वर्गीकरण प्रणाली",
+            "subtitle": "सटीक पहचान और नियंत्रण सिफारिशों के लिए खरपतवार की स्पष्ट छवि अपलोड करें",
+            "choose_image": "विश्लेषण के लिए छवि चुनें",
+            "select_image_label": "खरपतवार की छवि अपलोड करने के लिए यहां क्लिक करें या ड्रॉ करके छोड़ें",
+            "identify": "खरपतवार का विश्लेषण और पहचान करें",
+            "analyzing": "उन्नत AI विश्लेषण प्रगति में है...",
+            "results": "विस्तृत विश्लेषण परिणाम",
+            "error": "छवि विश्लेषण त्रुटि",
+            "select_image": "कृपया खरपतवार की एक स्पष्ट छवि चुनें",
+            "confidence": "AI विश्वास स्कोर",
+            "more_info": "व्यापक जानकारी देखें",
+            "preview": "छवि विश्लेषण पूर्वावलोकन",
+            "no_confident_prediction": "विश्वसनीय पहचान नहीं कर सके। कृपया खरपतवार की और स्पष्ट छवि प्रदान करें।"
+        },
+        "result": {
+            "weed_identification": "विस्तृत खरपतवार विश्लेषण रिपोर्ट",
+            "confidence": "AI मॉडल विश्वास स्कोर",
+            "characteristics": "विस्तृत आकृति विज्ञान विशेषताएं & विकास विशेषताएं",
+            "control_methods": "विशेषज्ञों द्वारा अनुशंसित प्रबंधन रणनीतियां",
+            "cultural_methods": "स्थायी कृषि नियंत्रण विधियां",
+            "mechanical_methods": "शारीरिक और मैनुअल नियंत्रण तकनीकें",
+            "chemical_methods": "रासायनिक उपचार और अनुप्रयोग दिशानिर्देश",
+            "biological_methods": "इयात्त और वातावरण नियंत्रण विधियां",
+            "view_chemical_control": "विस्तृत रासायनिक उपचार मार्गदर्शिका देखें",
+            "try_another": "दूसरी खरपतवार छवि का विश्लेषण करें",
+            "no_confident_prediction": "पहचान में पर्याप्त विश्वास नहीं है। कृपया सटीक विश्लेषण के लिए स्पष्ट छवि प्रदान करें।",
+            "characteristic_placeholder": "अतिरिक्त विशेषताएं जानकारी लंबित है"
+        },
+        "chemical_control": {
+            "title": "पूरक जानकारी",
+            "description": "खरपतवार प्रबंधन के लिए अनुशंसित रासायनिक उपचार और नियंत्रण विधियां खोजें",
+            "chemical_title": "रासायनिक उत्पाद",
+            "chemical_description": "प्रभावी खरपतवार नियंत्रण के लिए हमारे अनुशंसित रासायनिक उपचारों को ब्राउज़ करें",
+            "control_title": "नियंत्रण विधियां",
+            "control_description": "खरपतवार की वृद्धि को नियंत्रित और रोकने के लिए विभिन्न तरीकों के बारे में जानें",
+            "buy_now": "अभी खरीदें",
+            "no_info": "इस खरपतवार के लिए कोई पूरक जानकारी उपलब्ध नहीं है।"
+        },
+        "contact": {
+            "page_title": "संपर्क करें - खरपतवार वर्गीकरण प्रणाली",
+            "title": "संपर्क करें",
+            "subtitle": "हमारी टीम से संपर्क करें",
+            "team_title": "हमारी टीम",
+            "linkedin_profile": "लिंक्डइन प्रोफाइल",
+            "message_title": "हमें संदेश भेजें",
+            "name_label": "नाम",
+            "email_label": "ईमेल",
+            "subject_label": "विषय",
+            "message_label": "संदेश",
+            "send_button": "संदेश भेजें",
+            "location_title": "स्थान",
+            "address_title": "मुख्यानुवान",
+            "contact_info_title": "संपर्क जानकारी",
+            "success_message": "उङ्कळे संदेश के लिए धन्यवाद! हम जल्द ही आपसे संपर्क करेंगे।"
+        },
+        "crops": {
+            "select": "फसल चुनें",
+            "cotton": "कपास",
+            "rice": "चावल",
+            "wheat": "गेहूं"
+        },
+        "footer": {
+            "copyright": "© 2024 खरपतवार वर्गीकरण प्रणाली. सर्वाधिकार सुरक्षित."
+        },
+        "error": {
+            "title": "त्रुटि",
+            "heading": "एक त्रुटि हुई",
+            "back_to_search": "खोज पर वापस जाएं"
+        },
+        "weeds": {
+            "Mollugo_verticillata": {
+                "name": "कार्पेटवीड्स",
+                "characteristics": [
+                    "5-30 सेमी ऊंचाई तक बढ़ने वाला वार्षिक जड़ी बूटी",
+                    "तने लेटे हुए या ऊपर की ओर बढ़ने वाले, शाखाओं वाले",
+                    "पत्तियां घेरेदार, रैखिक से आयताकार",
+                    "छोटे सफेद फूल गुच्छों में",
+                    "बीज छोटे और किडनी के आकार के",
+                    "उथली जड़ प्रणाली",
+                    "रेतली मिट्टी में अच्छी तरह बढ़ता है",
+                    "परेशान क्षेत्रों में आम",
+                    "तेजी से वृद्धि",
+                    "सूखा प्रतिरोधी",
+                    "प्रचुर मात्रा में बीज उत्पादन",
+                    "बीज कई वर्षों तक व्यवहार्य रहते हैं",
+                    "गर्म स्थितियों में अंकुरित होता है",
+                    "फसलों के साथ प्रतिस्पर्धा करता है",
+                    "कुछ खरपतवारनाशकों के लिए प्रतिरोधी"
+                ]
+            },
+            "Cuscuta_campestris": {
+                "name": "सर्कुमर्वेंस",
+                "characteristics": [
+                    "परजीवी वार्षिक लता",
+                    "पीले से नारंगी रंग के धागे जैसे तने",
+                    "कोई वास्तविक पत्तियां या जड़ें नहीं",
+                    "छोटे सफेद फूल गुच्छों में",
+                    "प्रचुर मात्रा में बीज उत्पादन",
+                    "होस्ट पौधों से हस्टोरिया के माध्यम से जुड़ता है",
+                    "गर्म स्थितियों में अच्छी तरह बढ़ता है",
+                    "तेजी से वृद्धि",
+                    "अत्यधिक आक्रामक",
+                    "नियंत्रित करना मुश्किल",
+                    "बीज कई वर्षों तक व्यवहार्य रहते हैं",
+                    "होस्ट पौधों को मार सकता है",
+                    "बीज और तने के टुकड़ों से फैलता है",
+                    "कई खरपतवारनाशकों के लिए प्रतिरोधी",
+                    "कई फसल प्रजातियों को प्रभावित करता है"
+                ]
+            },
+            "Eclipta_prostrata": {
+                "name": "एक्लिप्टा",
+                "characteristics": [
+                    "20-60 सेमी ऊंचाई तक बढ़ने वाला वार्षिक जड़ी बूटी",
+                    "तने लेटे हुए या ऊपर की ओर बढ़ने वाले",
+                    "पत्तियां विपरीत, भालाकार",
+                    "सफेद फूल सिर में",
+                    "छोटे काले बीज उत्पादन करता है",
+                    "उथली जड़ प्रणाली",
+                    "नम स्थितियों में अच्छी तरह बढ़ता है",
+                    "धान के खेतों में आम",
+                    "तेजी से वृद्धि",
+                    "अत्यधिक प्रतिस्पर्धी",
+                    "प्रचुर मात्रा में बीज उत्पादन",
+                    "बीज कई वर्षों तक व्यवहार्य रहते हैं",
+                    "गर्म स्थितियों में अंकुरित होता है",
+                    "बाढ़ प्रतिरोधी",
+                    "कुछ खरपतवारनाशकों के लिए प्रतिरोधी"
+                ]
+            },
+            "Ipomoea_purpurea": {
+                "name": "मार्निन्ग ग्लोरी",
+                "characteristics": [
+                    "3 मीटर वरक्कु बढ़ने वाला वार्षिक तीव्र",
+                    "कोमल और रोमाल उभरते हुए",
+                    "आकुल गुंडे आकार में या बोड़",
+                    "ऊतान विश्लेषण आकार फूल",
+                    "बड़े नारंगी फूल उत्पादन करते हैं",
+                    "विस्तृत वेरु व्यवस्था",
+                    "वेच्चनी परिस्थितियों में अच्छी तरह बढ़ती है",
+                    "वेगवान वृद्धि",
+                    "उच्च प्रतिस्पर्धा",
+                    "अधिक फूल उत्पादन",
+                    "फूल कई वर्षों के दौरान जीवित रहते हैं",
+                    "वेच्चनी परिस्थितियों में मुळी फूल",
+                    "अनेक कोष्ठकों के दौरान वृद्धि",
+                    "वेच्चनी परिस्थितियों में मुळी फूल",
+                    "वरद निरोधक",
+                    "अनेक कोष्ठकों के दौरान निरोधक"
+                ]
+            },
+            "Amaranthus_palmeri": {
+                "name": "पाल्मर अमरात्त",
+                "characteristics": [
+                    "1-2 मीटर ऊंचाई बढ़ने वाला वार्षिक मूलिक",
+                    "कोमल और रोमाल उभरते हुए",
+                    "आकुल गुंडे आकार में या बोड़",
+                    "चिन्न आकुपच्च पूल",
+                    "अधिक वित्तन उत्पादन",
+                    "लोतैन टाप्प्रूट व्यवस्था",
+                    "वेच्चनी परिस्थितियों में अच्छी तरह बढ़ती है",
+                    "वेगवान वृद्धि",
+                    "उच्च प्रतिस्पर्धा",
+                    "अधिक फूल उत्पादन",
+                    "फूल कई वर्षों के दौरान जीवित रहते हैं",
+                    "वेच्चनी परिस्थितियों में मुळी फूल",
+                    "वेच्चनी परिस्थितियों में मुळी फूल",
+                    "वरद निरोधक",
+                    "अनेक कोष्ठकों के दौरान निरोधक",
+                    "वेच्चनी परिस्थितियों में मुळी फूल उत्पादन करते हैं"
+                ]
+            },
+            "Sida_spinosa": {
+                "name": "मुळ्ली सिडा",
+                "characteristics": [
+                    "30-100 सेमी ऊंचाई तक बढ़ने वाला वार्षिक मूलिक",
+                    "कोमल और रोमाल उभरते हुए",
+                    "आकुल गुंडे आकार में या बोड़",
+                    "चिन्न पसुप्पु पूल",
+                    "चिन्न गोधुम रंग वित्तनालों उत्पादन करते हैं",
+                    "लोतैन टाप्प्रूट व्यवस्था",
+                    "वेच्चनी परिस्थितियों में अच्छी तरह बढ़ती है",
+                    "वेगवान वृद्धि",
+                    "अधिक प्रतिस्पर्धा",
+                    "अधिक फूल उत्पादन",
+                    "फूल कई वर्षों के दौरान जीवित रहते हैं",
+                    "वेच्चनी परिस्थितियों में मुळी फूल",
+                    "कुछ कोष्ठकों के दौरान निरोधक",
+                    "मुळ्ली कोमल और रोमाल उभरते हुए"
+                ]
+            },
+            "Euphorbia_maculata": {
+                "name": "धब्बेदार स्पर्ज",
+                "characteristics": [
+                    "10-30 सेमी ऊंचाई तक बढ़ने वाला वार्षिक जड़ी बूटी",
+                    "तने फैलने वाले और शाखाओं वाले",
+                    "पत्तियां विपरीत, आयताकार",
+                    "लाल धब्बों वाले छोटे हरे फूल",
+                    "छोटे भूरे बीज उत्पादन करता है",
+                    "उथली जड़ प्रणाली",
+                    "गर्म स्थितियों में अच्छी तरह बढ़ता है",
+                    "तेजी से वृद्धि",
+                    "अत्यधिक प्रतिस्पर्धी",
+                    "सूखा प्रतिरोधी",
+                    "प्रचुर मात्रा में बीज उत्पादन",
+                    "बीज कई वर्षों तक व्यवहार्य रहते हैं",
+                    "गर्म स्थितियों में अंकुरित होता है",
+                    "कुछ खरपतवारनाशकों के लिए प्रतिरोधी",
+                    "दूध जैसा रस"
+                ]
+            },
+            "Anoda_cristata": {
+                "name": "स्पर्ड एनोडा",
+                "characteristics": [
+                    "30-100 सेमी ऊंचाई तक बढ़ने वाला वार्षिक जड़ी बूटी",
+                    "तने सीधे और शाखाओं वाले",
+                    "पत्तियां त्रिकोणीय",
+                    "स्पर्स वाले बैंगनी फूल",
+                    "छोटे काले बीज उत्पादन करता है",
+                    "गहरी टैप्रूट प्रणाली",
+                    "गर्म स्थितियों में अच्छी तरह बढ़ता है",
+                    "तेजी से वृद्धि",
+                    "अत्यधिक प्रतिस्पर्धी",
+                    "सूखा प्रतिरोधी",
+                    "प्रचुर मात्रा में बीज उत्पादन",
+                    "बीज कई वर्षों तक व्यवहार्य रहते हैं",
+                    "गर्म स्थितियों में अंकुरित होता है",
+                    "कुछ खरपतवारनाशकों के लिए प्रतिरोधी",
+                    "स्पर्स वाले फूल"
+                ]
+            },
+            "Coronopus_didymus": {
+                "name": "स्वाइनक्रेस",
+                "characteristics": [
+                    "10-40 सेमी ऊंचाई तक बढ़ने वाला वार्षिक जड़ी बूटी",
+                    "तने फैलने वाले और शाखाओं वाले",
+                    "पत्तियां पिन्नेट विभाजित",
+                    "छोटे सफेद फूल",
+                    "छोटे गोल बीज उत्पादन करता है",
+                    "उथली जड़ प्रणाली",
+                    "ठंडी स्थितियों में अच्छी तरह बढ़ता है",
+                    "तेजी से वृद्धि",
+                    "अत्यधिक प्रतिस्पर्धी",
+                    "नमी प्रेमी",
+                    "प्रचुर मात्रा में बीज उत्पादन",
+                    "बीज कई वर्षों तक व्यवहार्य रहते हैं",
+                    "ठंडी स्थितियों में अंकुरित होता है",
+                    "कुछ खरपतवारनाशकों के लिए प्रतिरोधी",
+                    "तीव्र गंध"
+                ]
+            },
+            "Amaranthus_tuberculatus": {
+                "name": "वॉटरहेम्प",
+                "characteristics": [
+                    "1-2 मीटर ऊंचाई तक बढ़ने वाला वार्षिक जड़ी बूटी",
+                    "तने सीधे और शाखाओं वाले",
+                    "पत्तियां भालाकार",
+                    "छोटे हरे फूल स्पाइक में",
+                    "छोटे काले बीज उत्पादन करता है",
+                    "गहरी टैप्रूट प्रणाली",
+                    "गर्म स्थितियों में अच्छी तरह बढ़ता है",
+                    "तेजी से वृद्धि",
+                    "अत्यधिक प्रतिस्पर्धी",
+                    "सूखा प्रतिरोधी",
+                    "प्रचुर मात्रा में बीज उत्पादन",
+                    "बीज कई वर्षों तक व्यवहार्य रहते हैं",
+                    "गर्म स्थितियों में अंकुरित होता है",
+                    "कई खरपतवारनाशकों के लिए प्रतिरोधी",
+                    "नर और मादा फूल अलग-अलग पौधों पर"
+                ]
+            },
+            "Digitaria_sanguinalis": {
+                "name": "क्रैबग्रास",
+                "characteristics": [
+                    "30-60 सेमी ऊंचाई तक बढ़ने वाला वार्षिक घास",
+                    "तने फैलने वाले और गांठों पर जड़ें",
+                    "पत्तियां चपटी और रोमिल",
+                    "छोटे हरे फूल स्पाइक में",
+                    "छोटे भूरे बीज उत्पादन करता है",
+                    "तंतुमय जड़ प्रणाली",
+                    "गर्म स्थितियों में अच्छी तरह बढ़ता है",
+                    "तेजी से वृद्धि",
+                    "अत्यधिक प्रतिस्पर्धी",
+                    "सूखा प्रतिरोधी",
+                    "प्रचुर मात्रा में बीज उत्पादन",
+                    "बीज कई वर्षों तक व्यवहार्य रहते हैं",
+                    "गर्म स्थितियों में अंकुरित होता है",
+                    "कुछ खरपतवारनाशकों के लिए प्रतिरोधी",
+                    "स्टोलन द्वारा फैलता है"
+                ]
+            },
+            "Eleusine_indica": {
+                "name": "गूसग्रास",
+                "characteristics": [
+                    "20-60 सेमी ऊंचाई तक बढ़ने वाला वार्षिक घास",
+                    "तने चपटे और सफेद",
+                    "पत्तियां चपटी और मुड़ी हुई",
+                    "छोटे हरे फूल स्पाइक में",
+                    "छोटे भूरे बीज उत्पादन करता है",
+                    "तंतुमय जड़ प्रणाली",
+                    "गर्म स्थितियों में अच्छी तरह बढ़ता है",
+                    "तेजी से वृद्धि",
+                    "अत्यधिक प्रतिस्पर्धी",
+                    "सूखा प्रतिरोधी",
+                    "प्रचुर मात्रा में बीज उत्पादन",
+                    "बीज कई वर्षों तक व्यवहार्य रहते हैं",
+                    "गर्म स्थितियों में अंकुरित होता है",
+                    "कुछ खरपतवारनाशकों के लिए प्रतिरोधी",
+                    "सफेद तना आधार"
+                ]
+            },
+            "Brachypodium_sylvaticum": {
+                "name": "फॉल्स ब्रोम",
+                "characteristics": [
+                    "60-120 सेमी ऊंचाई तक बढ़ने वाला बहुवर्षीय घास",
+                    "तने सीधे और गुच्छेदार",
+                    "पत्तियां चपटी और रोमिल",
+                    "छोटे हरे फूल स्पाइक में",
+                    "छोटे भूरे बीज उत्पादन करता है",
+                    "तंतुमय जड़ प्रणाली",
+                    "ठंडी स्थितियों में अच्छी तरह बढ़ता है",
+                    "मध्यम वृद्धि",
+                    "प्रतिस्पर्धी",
+                    "छाया सहिष्णु",
+                    "प्रचुर मात्रा में बीज उत्पादन",
+                    "बीज कई वर्षों तक व्यवहार्य रहते हैं",
+                    "ठंडी स्थितियों में अंकुरित होता है",
+                    "कुछ खरपतवारनाशकों के लिए प्रतिरोधी",
+                    "घने गुच्छे बनाता है"
+                ]
+            }
+        },
+        "supplements": {
+            "title": "रासायनिक नियंत्रण",
+            "description": "खरपतवार प्रबंधन के लिए अनुशंसित रासायनिक उपचार और नियंत्रण विधियां खोजें",
+            "chemical_title": "शाकनाशी उत्पाद",
+            "chemical_description": "कपास के खेतों में खरपतवार को नियंत्रित करने के लिए प्रभावी शाकनाशी",
+            "dosage_title": "उपयोग दरें",
+            "safety_title": "सुरक्षा सावधानियां",
+            "guidelines_title": "उपयोग दिशानिर्देश",
+            "active_ingredient": "सक्रिय तत्व",
+            "usage": "उपयोग निर्देश",
+            "buy_now": "अभी खरीदें",
+            "no_products": "इस खरपतवार के लिए कोई शाकनाशी उत्पाद उपलब्ध नहीं हैं।",
+            "no_info": "इस खरपतवार के लिए कोई रासायनिक नियंत्रण जानकारी उपलब्ध नहीं है।"
+        }
+    }
+}

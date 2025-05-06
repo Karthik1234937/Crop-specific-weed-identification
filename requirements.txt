@@ -1,0 +1,9 @@
+flask
+pillow
+onnxruntime
+numpy
+requests
+werkzeug
+torch
+torchvision
+python-dotenv

@@ -1,0 +1,772 @@
+{
+    "en": {
+        "Mollugo_verticillata": {
+            "characteristics": [
+                "Annual herb growing 5-30 cm tall",
+                "Stems are prostrate to ascending, branched",
+                "Leaves are whorled, linear to oblong",
+                "Small white flowers in clusters",
+                "Seeds are small and kidney-shaped",
+                "Shallow root system",
+                "Thrives in sandy soils",
+                "Common in disturbed areas",
+                "Rapid growth rate",
+                "Drought tolerant",
+                "Produces abundant seeds",
+                "Seeds remain viable for several years",
+                "Germinates in warm conditions",
+                "Competitive with crops",
+                "Resistant to some herbicides"
+            ],
+            "control_methods": {
+                "cultural": [
+                    "Maintain dense crop canopy",
+                    "Early planting of competitive crops",
+                    "Proper field sanitation",
+                    "Crop rotation",
+                    "Use clean crop seeds"
+                ],
+                "mechanical": [
+                    "Regular cultivation",
+                    "Hand weeding",
+                    "Mowing before seed production",
+                    "Deep plowing",
+                    "Mulching"
+                ],
+                "chemical": [
+                    "Pre-emergence herbicides",
+                    "Post-emergence selective herbicides",
+                    "Multiple applications may be needed",
+                    "Use appropriate herbicide mixtures",
+                    "Follow label instructions"
+                ],
+                "biological": [
+                    "Competitive ground covers",
+                    "Natural enemies",
+                    "Soil solarization",
+                    "Integration with other methods"
+                ]
+            }
+        },
+        "Cuscuta_campestris": {
+            "characteristics": [
+                "Parasitic annual vine",
+                "Yellow to orange thread-like stems",
+                "No true leaves or roots",
+                "Small white flowers in clusters",
+                "Produces abundant seeds",
+                "Attaches to host plants via haustoria",
+                "Thrives in warm conditions",
+                "Rapid growth rate",
+                "Highly invasive",
+                "Difficult to control",
+                "Seeds remain viable for years",
+                "Can kill host plants",
+                "Spreads through seeds and stem fragments",
+                "Resistant to many herbicides",
+                "Affects multiple crop species"
+            ],
+            "control_methods": {
+                "cultural": [
+                    "Use clean crop seeds",
+                    "Field sanitation",
+                    "Crop rotation",
+                    "Early detection",
+                    "Remove infected plants"
+                ],
+                "mechanical": [
+                    "Hand removal",
+                    "Burning infected plants",
+                    "Deep plowing",
+                    "Regular cultivation",
+                    "Physical barriers"
+                ],
+                "chemical": [
+                    "Pre-emergence herbicides",
+                    "Post-emergence systemic herbicides",
+                    "Multiple applications needed",
+                    "Use appropriate herbicide mixtures",
+                    "Follow label instructions"
+                ],
+                "biological": [
+                    "Natural enemies",
+                    "Pathogenic fungi",
+                    "Competitive crops",
+                    "Integration with other methods"
+                ]
+            }
+        },
+        "Eclipta_prostrata": {
+            "characteristics": [
+                "Annual herb growing 20-60 cm tall",
+                "Stems are prostrate to ascending",
+                "Leaves are opposite, lanceolate",
+                "White flowers in heads",
+                "Produces small, black seeds",
+                "Shallow root system",
+                "Thrives in moist conditions",
+                "Common in rice fields",
+                "Rapid growth rate",
+                "Highly competitive",
+                "Produces abundant seeds",
+                "Seeds remain viable for years",
+                "Germinates in warm conditions",
+                "Tolerant to flooding",
+                "Resistant to some herbicides"
+            ],
+            "control_methods": {
+                "cultural": [
+                    "Proper water management",
+                    "Early planting",
+                    "Field sanitation",
+                    "Crop rotation",
+                    "Use clean crop seeds"
+                ],
+                "mechanical": [
+                    "Regular cultivation",
+                    "Hand weeding",
+                    "Mowing",
+                    "Deep plowing",
+                    "Flooding"
+                ],
+                "chemical": [
+                    "Pre-emergence herbicides",
+                    "Post-emergence selective herbicides",
+                    "Multiple applications may be needed",
+                    "Use appropriate herbicide mixtures",
+                    "Follow label instructions"
+                ],
+                "biological": [
+                    "Competitive crops",
+                    "Natural enemies",
+                    "Soil solarization",
+                    "Integration with other methods"
+                ]
+            }
+        },
+        "Ipomoea_purpurea": {
+            "characteristics": [
+                "Annual vine growing up to 3 meters",
+                "Stems are twining and hairy",
+                "Leaves are heart-shaped to lobed",
+                "Purple to pink trumpet-shaped flowers",
+                "Produces large, black seeds",
+                "Extensive root system",
+                "Thrives in warm conditions",
+                "Rapid growth rate",
+                "Highly competitive",
+                "Climbs and smothers crops",
+                "Produces abundant seeds",
+                "Seeds remain viable for years",
+                "Germinates in warm conditions",
+                "Drought tolerant",
+                "Resistant to many herbicides"
+            ],
+            "control_methods": {
+                "cultural": [
+                    "Early planting",
+                    "Dense crop canopy",
+                    "Field sanitation",
+                    "Crop rotation",
+                    "Use clean crop seeds"
+                ],
+                "mechanical": [
+                    "Regular cultivation",
+                    "Hand pulling",
+                    "Mowing",
+                    "Deep plowing",
+                    "Physical barriers"
+                ],
+                "chemical": [
+                    "Pre-emergence herbicides",
+                    "Post-emergence systemic herbicides",
+                    "Multiple applications needed",
+                    "Use appropriate herbicide mixtures",
+                    "Follow label instructions"
+                ],
+                "biological": [
+                    "Competitive crops",
+                    "Natural enemies",
+                    "Soil solarization",
+                    "Integration with other methods"
+                ]
+            }
+        },
+        "Amaranthus_palmeri": {
+            "characteristics": [
+                "Annual herb growing 1-2 meters tall",
+                "Stems are erect and branched",
+                "Leaves are alternate, lanceolate",
+                "Small green flowers in clusters",
+                "Produces abundant seeds",
+                "Deep taproot system",
+                "Thrives in warm conditions",
+                "Rapid growth rate",
+                "Highly competitive",
+                "Drought tolerant",
+                "Produces thousands of seeds",
+                "Seeds remain viable for years",
+                "Germinates in warm conditions",
+                "Resistant to many herbicides",
+                "Difficult to control"
+            ],
+            "control_methods": {
+                "cultural": [
+                    "Early planting",
+                    "Dense crop canopy",
+                    "Field sanitation",
+                    "Crop rotation",
+                    "Use clean crop seeds"
+                ],
+                "mechanical": [
+                    "Regular cultivation",
+                    "Hand weeding",
+                    "Mowing",
+                    "Deep plowing",
+                    "Mulching"
+                ],
+                "chemical": [
+                    "Pre-emergence herbicides",
+                    "Post-emergence systemic herbicides",
+                    "Multiple applications needed",
+                    "Use appropriate herbicide mixtures",
+                    "Follow label instructions"
+                ],
+                "biological": [
+                    "Competitive crops",
+                    "Natural enemies",
+                    "Soil solarization",
+                    "Integration with other methods"
+                ]
+            }
+        },
+        "Sida_spinosa": {
+            "characteristics": [
+                "Annual herb growing 30-100 cm tall",
+                "Stems are erect and branched",
+                "Leaves are alternate, ovate",
+                "Small yellow flowers",
+                "Produces small, brown seeds",
+                "Deep taproot system",
+                "Thrives in warm conditions",
+                "Rapid growth rate",
+                "Highly competitive",
+                "Drought tolerant",
+                "Produces abundant seeds",
+                "Seeds remain viable for years",
+                "Germinates in warm conditions",
+                "Resistant to some herbicides",
+                "Spiny stems"
+            ],
+            "control_methods": {
+                "cultural": [
+                    "Early planting",
+                    "Dense crop canopy",
+                    "Field sanitation",
+                    "Crop rotation",
+                    "Use clean crop seeds"
+                ],
+                "mechanical": [
+                    "Regular cultivation",
+                    "Hand weeding with gloves",
+                    "Mowing",
+                    "Deep plowing",
+                    "Mulching"
+                ],
+                "chemical": [
+                    "Pre-emergence herbicides",
+                    "Post-emergence selective herbicides",
+                    "Multiple applications needed",
+                    "Use appropriate herbicide mixtures",
+                    "Follow label instructions"
+                ],
+                "biological": [
+                    "Competitive crops",
+                    "Natural enemies",
+                    "Soil solarization",
+                    "Integration with other methods"
+                ]
+            }
+        },
+        "Portulaca_oleracea": {
+            "characteristics": [
+                "Annual herb growing 10-30 cm tall",
+                "Stems are prostrate and branched",
+                "Leaves are alternate, succulent",
+                "Small yellow flowers",
+                "Produces small, black seeds",
+                "Shallow root system",
+                "Thrives in warm conditions",
+                "Rapid growth rate",
+                "Highly competitive",
+                "Drought tolerant",
+                "Produces abundant seeds",
+                "Seeds remain viable for years",
+                "Germinates in warm conditions",
+                "Resistant to some herbicides",
+                "Succulent stems"
+            ],
+            "control_methods": {
+                "cultural": [
+                    "Early planting",
+                    "Dense crop canopy",
+                    "Field sanitation",
+                    "Crop rotation",
+                    "Use clean crop seeds"
+                ],
+                "mechanical": [
+                    "Regular cultivation",
+                    "Hand weeding",
+                    "Mowing",
+                    "Deep plowing",
+                    "Mulching"
+                ],
+                "chemical": [
+                    "Pre-emergence herbicides",
+                    "Post-emergence selective herbicides",
+                    "Multiple applications needed",
+                    "Use appropriate herbicide mixtures",
+                    "Follow label instructions"
+                ],
+                "biological": [
+                    "Competitive crops",
+                    "Natural enemies",
+                    "Soil solarization",
+                    "Integration with other methods"
+                ]
+            }
+        },
+        "Ambrosia_artemisiifolia": {
+            "characteristics": [
+                "Annual herb growing 30-150 cm tall",
+                "Stems are erect and branched",
+                "Leaves are deeply lobed",
+                "Small green flowers in spikes",
+                "Produces abundant seeds",
+                "Deep taproot system",
+                "Thrives in warm conditions",
+                "Rapid growth rate",
+                "Highly competitive",
+                "Drought tolerant",
+                "Produces thousands of seeds",
+                "Seeds remain viable for years",
+                "Germinates in warm conditions",
+                "Resistant to many herbicides",
+                "Causes allergies"
+            ],
+            "control_methods": {
+                "cultural": [
+                    "Early planting",
+                    "Dense crop canopy",
+                    "Field sanitation",
+                    "Crop rotation",
+                    "Use clean crop seeds"
+                ],
+                "mechanical": [
+                    "Regular cultivation",
+                    "Hand weeding",
+                    "Mowing",
+                    "Deep plowing",
+                    "Mulching"
+                ],
+                "chemical": [
+                    "Pre-emergence herbicides",
+                    "Post-emergence systemic herbicides",
+                    "Multiple applications needed",
+                    "Use appropriate herbicide mixtures",
+                    "Follow label instructions"
+                ],
+                "biological": [
+                    "Competitive crops",
+                    "Natural enemies",
+                    "Soil solarization",
+                    "Integration with other methods"
+                ]
+            }
+        },
+        "Senna_obtusifolia": {
+            "characteristics": [
+                "Annual herb growing 30-120 cm tall",
+                "Stems are erect and branched",
+                "Leaves are compound with leaflets",
+                "Yellow flowers in clusters",
+                "Produces long, brown pods",
+                "Deep taproot system",
+                "Thrives in warm conditions",
+                "Rapid growth rate",
+                "Highly competitive",
+                "Drought tolerant",
+                "Produces abundant seeds",
+                "Seeds remain viable for years",
+                "Germinates in warm conditions",
+                "Resistant to some herbicides",
+                "Toxic to livestock"
+            ],
+            "control_methods": {
+                "cultural": [
+                    "Early planting",
+                    "Dense crop canopy",
+                    "Field sanitation",
+                    "Crop rotation",
+                    "Use clean crop seeds"
+                ],
+                "mechanical": [
+                    "Regular cultivation",
+                    "Hand weeding",
+                    "Mowing",
+                    "Deep plowing",
+                    "Mulching"
+                ],
+                "chemical": [
+                    "Pre-emergence herbicides",
+                    "Post-emergence selective herbicides",
+                    "Multiple applications needed",
+                    "Use appropriate herbicide mixtures",
+                    "Follow label instructions"
+                ],
+                "biological": [
+                    "Competitive crops",
+                    "Natural enemies",
+                    "Soil solarization",
+                    "Integration with other methods"
+                ]
+            }
+        },
+        "Euphorbia_maculata": {
+            "characteristics": [
+                "Annual herb growing 5-30 cm tall",
+                "Stems are prostrate and branched",
+                "Leaves are opposite, oblong",
+                "Small green flowers",
+                "Produces small, brown seeds",
+                "Shallow root system",
+                "Thrives in warm conditions",
+                "Rapid growth rate",
+                "Highly competitive",
+                "Drought tolerant",
+                "Produces abundant seeds",
+                "Seeds remain viable for years",
+                "Germinates in warm conditions",
+                "Resistant to some herbicides",
+                "Milky sap"
+            ],
+            "control_methods": {
+                "cultural": [
+                    "Early planting",
+                    "Dense crop canopy",
+                    "Field sanitation",
+                    "Crop rotation",
+                    "Use clean crop seeds"
+                ],
+                "mechanical": [
+                    "Regular cultivation",
+                    "Hand weeding",
+                    "Mowing",
+                    "Deep plowing",
+                    "Mulching"
+                ],
+                "chemical": [
+                    "Pre-emergence herbicides",
+                    "Post-emergence selective herbicides",
+                    "Multiple applications needed",
+                    "Use appropriate herbicide mixtures",
+                    "Follow label instructions"
+                ],
+                "biological": [
+                    "Competitive crops",
+                    "Natural enemies",
+                    "Soil solarization",
+                    "Integration with other methods"
+                ]
+            }
+        },
+        "Anoda_cristata": {
+            "characteristics": [
+                "Annual herb growing 30-100 cm tall",
+                "Stems are erect and branched",
+                "Leaves are alternate, triangular",
+                "Purple flowers with spurs",
+                "Produces small, brown seeds",
+                "Deep taproot system",
+                "Thrives in warm conditions",
+                "Rapid growth rate",
+                "Highly competitive",
+                "Drought tolerant",
+                "Produces abundant seeds",
+                "Seeds remain viable for years",
+                "Germinates in warm conditions",
+                "Resistant to some herbicides",
+                "Spurred flowers"
+            ],
+            "control_methods": {
+                "cultural": [
+                    "Early planting",
+                    "Dense crop canopy",
+                    "Field sanitation",
+                    "Crop rotation",
+                    "Use clean crop seeds"
+                ],
+                "mechanical": [
+                    "Regular cultivation",
+                    "Hand weeding",
+                    "Mowing",
+                    "Deep plowing",
+                    "Mulching"
+                ],
+                "chemical": [
+                    "Pre-emergence herbicides",
+                    "Post-emergence selective herbicides",
+                    "Multiple applications needed",
+                    "Use appropriate herbicide mixtures",
+                    "Follow label instructions"
+                ],
+                "biological": [
+                    "Competitive crops",
+                    "Natural enemies",
+                    "Soil solarization",
+                    "Integration with other methods"
+                ]
+            }
+        },
+        "Coronopus_didymus": {
+            "characteristics": [
+                "Annual herb growing 10-30 cm tall",
+                "Stems are prostrate and branched",
+                "Leaves are deeply divided",
+                "Small white flowers",
+                "Produces small, brown seeds",
+                "Shallow root system",
+                "Thrives in cool conditions",
+                "Rapid growth rate",
+                "Highly competitive",
+                "Moisture loving",
+                "Produces abundant seeds",
+                "Seeds remain viable for years",
+                "Germinates in cool conditions",
+                "Resistant to some herbicides",
+                "Strong odor"
+            ],
+            "control_methods": {
+                "cultural": [
+                    "Early planting",
+                    "Dense crop canopy",
+                    "Field sanitation",
+                    "Crop rotation",
+                    "Use clean crop seeds"
+                ],
+                "mechanical": [
+                    "Regular cultivation",
+                    "Hand weeding",
+                    "Mowing",
+                    "Deep plowing",
+                    "Mulching"
+                ],
+                "chemical": [
+                    "Pre-emergence herbicides",
+                    "Post-emergence selective herbicides",
+                    "Multiple applications needed",
+                    "Use appropriate herbicide mixtures",
+                    "Follow label instructions"
+                ],
+                "biological": [
+                    "Competitive crops",
+                    "Natural enemies",
+                    "Soil solarization",
+                    "Integration with other methods"
+                ]
+            }
+        },
+        "Amaranthus_tuberculatus": {
+            "characteristics": [
+                "Annual herb growing 1-2 meters tall",
+                "Stems are erect and branched",
+                "Leaves are alternate, lanceolate",
+                "Small green flowers in clusters",
+                "Produces abundant seeds",
+                "Deep taproot system",
+                "Thrives in warm conditions",
+                "Rapid growth rate",
+                "Highly competitive",
+                "Drought tolerant",
+                "Produces thousands of seeds",
+                "Seeds remain viable for years",
+                "Germinates in warm conditions",
+                "Resistant to many herbicides",
+                "Difficult to control"
+            ],
+            "control_methods": {
+                "cultural": [
+                    "Early planting",
+                    "Dense crop canopy",
+                    "Field sanitation",
+                    "Crop rotation",
+                    "Use clean crop seeds"
+                ],
+                "mechanical": [
+                    "Regular cultivation",
+                    "Hand weeding",
+                    "Mowing",
+                    "Deep plowing",
+                    "Mulching"
+                ],
+                "chemical": [
+                    "Pre-emergence herbicides",
+                    "Post-emergence systemic herbicides",
+                    "Multiple applications needed",
+                    "Use appropriate herbicide mixtures",
+                    "Follow label instructions"
+                ],
+                "biological": [
+                    "Competitive crops",
+                    "Natural enemies",
+                    "Soil solarization",
+                    "Integration with other methods"
+                ]
+            }
+        },
+        "Digitaria_sanguinalis": {
+            "characteristics": [
+                "Annual grass growing 30-100 cm tall",
+                "Stems are prostrate to ascending",
+                "Leaves are linear with hairy sheaths",
+                "Spikelets in digitate clusters",
+                "Produces abundant seeds",
+                "Fibrous root system",
+                "Thrives in warm conditions",
+                "Rapid growth rate",
+                "Highly competitive",
+                "Drought tolerant",
+                "Produces thousands of seeds",
+                "Seeds remain viable for years",
+                "Germinates in warm conditions",
+                "Resistant to some herbicides",
+                "Common in lawns"
+            ],
+            "control_methods": {
+                "cultural": [
+                    "Early planting",
+                    "Dense crop canopy",
+                    "Field sanitation",
+                    "Crop rotation",
+                    "Use clean crop seeds"
+                ],
+                "mechanical": [
+                    "Regular cultivation",
+                    "Hand weeding",
+                    "Mowing",
+                    "Deep plowing",
+                    "Mulching"
+                ],
+                "chemical": [
+                    "Pre-emergence herbicides",
+                    "Post-emergence selective herbicides",
+                    "Multiple applications needed",
+                    "Use appropriate herbicide mixtures",
+                    "Follow label instructions"
+                ],
+                "biological": [
+                    "Competitive crops",
+                    "Natural enemies",
+                    "Soil solarization",
+                    "Integration with other methods"
+                ]
+            }
+        },
+        "Eleusine_indica": {
+            "characteristics": [
+                "Annual grass growing 20-60 cm tall",
+                "Stems are flattened and branched",
+                "Leaves are linear with hairy sheaths",
+                "Spikelets in digitate clusters",
+                "Produces abundant seeds",
+                "Fibrous root system",
+                "Thrives in warm conditions",
+                "Rapid growth rate",
+                "Highly competitive",
+                "Drought tolerant",
+                "Produces thousands of seeds",
+                "Seeds remain viable for years",
+                "Germinates in warm conditions",
+                "Resistant to many herbicides",
+                "Common in disturbed areas"
+            ],
+            "control_methods": {
+                "cultural": [
+                    "Early planting",
+                    "Dense crop canopy",
+                    "Field sanitation",
+                    "Crop rotation",
+                    "Use clean crop seeds"
+                ],
+                "mechanical": [
+                    "Regular cultivation",
+                    "Hand weeding",
+                    "Mowing",
+                    "Deep plowing",
+                    "Mulching"
+                ],
+                "chemical": [
+                    "Pre-emergence herbicides",
+                    "Post-emergence selective herbicides",
+                    "Multiple applications needed",
+                    "Use appropriate herbicide mixtures",
+                    "Follow label instructions"
+                ],
+                "biological": [
+                    "Competitive crops",
+                    "Natural enemies",
+                    "Soil solarization",
+                    "Integration with other methods"
+                ]
+            }
+        },
+        "Brachypodium_sylvaticum": {
+            "characteristics": [
+                "Perennial grass growing 30-100 cm tall",
+                "Stems are erect and tufted",
+                "Leaves are linear with hairy sheaths",
+                "Spikelets in racemes",
+                "Produces abundant seeds",
+                "Fibrous root system",
+                "Thrives in cool conditions",
+                "Rapid growth rate",
+                "Highly competitive",
+                "Shade tolerant",
+                "Produces thousands of seeds",
+                "Seeds remain viable for years",
+                "Germinates in cool conditions",
+                "Resistant to some herbicides",
+                "Common in woodlands"
+            ],
+            "control_methods": {
+                "cultural": [
+                    "Early planting",
+                    "Dense crop canopy",
+                    "Field sanitation",
+                    "Crop rotation",
+                    "Use clean crop seeds"
+                ],
+                "mechanical": [
+                    "Regular cultivation",
+                    "Hand weeding",
+                    "Mowing",
+                    "Deep plowing",
+                    "Mulching"
+                ],
+                "chemical": [
+                    "Pre-emergence herbicides",
+                    "Post-emergence selective herbicides",
+                    "Multiple applications needed",
+                    "Use appropriate herbicide mixtures",
+                    "Follow label instructions"
+                ],
+                "biological": [
+                    "Competitive crops",
+                    "Natural enemies",
+                    "Soil solarization",
+                    "Integration with other methods"
+                ]
+            }
+        }
+    }
+} 
